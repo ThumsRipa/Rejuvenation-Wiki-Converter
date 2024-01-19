@@ -1,0 +1,118 @@
+Move,UpperMove,Location,Condition,Price
+Bind,BIND,Luck's Tent,None,2 Red Shards
+Covet,COVET,Luck's Tent,None,2 Blue Shards
+Block,BLOCK,Luck's Tent,None,2 Yellow Shards
+Spite,SPITE,Luck's Tent,None,2 Green Shards
+Swift,SWIFT,Luck's Tent,None,2 Yellow Shards
+After You,AFTERYOU,Luck's Tent,None,2 Red Shards
+Gravity,GRAVITY,Luck's Tent,None,2 Green Shards
+Magic Coat,MAGICCOAT,Luck's Tent,None,2 Blue Shards
+Venom Drench,VENOMDRENCH,Luck's Tent,None,2 Blue Shards
+Recycle,RECYCLE,Luck's Tent,3 Badges,2 Yellow Shards
+Worry Seed,WORRYSEED,Luck's Tent,3 Badges,2 Green Shards
+Snore,SNORE,Luck's Tent,3 Badges,2 Red Shards
+Shock Wave,SHOCKWAVE,Luck's Tent,3 Badges,2 Blue Shards
+Water Pulse,WATERPULSE,Luck's Tent,3 Badges,2 Red Shards
+Snatch,SNATCH,Luck's Tent,3 Badges,2 Blue Shards
+Wonder Room,WONDERROOM,Luck's Tent,3 Badges,2 Green Shards
+Magic Room,MAGICROOM,Luck's Tent,3 Badges,2 Yellow Shards
+Role Play,ROLEPLAY,Luck's Tent,3 Badges,2 Yellow Shards
+Super Fang,SUPERFANG,Luck's Tent,5 Badges,3 Red Shards
+Trick,TRICK,Luck's Tent,5 Badges,3 Blue Shards
+Dual Chop,DUALCHOP,Luck's Tent,5 Badges,3 Green Shards
+Helping Hand,HELPINGHAND,Luck's Tent,5 Badges,3 Yellow Shards
+Giga Drain,GIGADRAIN,Luck's Tent,5 Badges,3 Yellow Shards
+Synthesis,SYNTHESIS,Luck's Tent,5 Badges,3 Green Shards
+Magnet Rise,MAGNETRISE,Luck's Tent,5 Badges,3 Blue Shards
+Uproar,UPROAR,Luck's Tent,5 Badges,3 Red Shards
+Telekinesis,TELEKINESIS,Luck's Tent,5 Badges,2 Green Shards
+Bug Bite,BUGBITE,Luck's Tent,7 Badges,3 Green Shards
+Bounce,BOUNCE,Luck's Tent,7 Badges,3 Blue Shards
+Drill Run,DRILLRUN,Luck's Tent,7 Badges,3 Yellow Shards
+Electroweb,ELECTROWEB,Luck's Tent,7 Badges,3 Red Shards
+Gastro Acid,GASTROACID,Luck's Tent,7 Badges,3 Yellow Shards
+Focus Energy,FOCUSENERGY,Luck's Tent,7 Badges,3 Red Shards
+Skill Swap,SKILLSWAP,Luck's Tent,7 Badges,3 Blue Shards
+Signal Beam,SIGNALBEAM,Luck's Tent,7 Badges,3 Green Shards
+Coaching,COACHING,Luck's Tent,7 Badges,3 Red Shards
+Aqua Tail,AQUATAIL,Luck's Tent,9 Badges,4 Blue Shards
+Laser Focus,LASERFOCUS,Luck's Tent,9 Badges,4 Red Shards
+Spikes,SPIKES,Luck's Tent,9 Badges,4 Yellow Shards
+Reversal,REVERSAL,Luck's Tent,9 Badges,4 Green Shards
+Endure,ENDURE,Luck's Tent,9 Badges,4 Green Shards
+Amnesia,AMNESIA,Luck's Tent,9 Badges,4 Blue Shards
+Electro Ball,ELECTROBALL,Luck's Tent,9 Badges,4 Yellow Shards
+Ally Switch,ALLYSWITCH,Luck's Tent,9 Badges,4 Red Shards
+Hyper Voice,HYPERVOICE,Luck's Tent,9 Badges,4 Blue Shards
+Sky Attack,SKYATTACK,Luck's Tent,11 Badges,4 Green Shards
+Icy Wind,ICYWIND,Luck's Tent,11 Badges,4 Red Shards
+Tailwind,TAILWIND,Luck's Tent,11 Badges,4 Yellow Shards
+Baton Pass,BATONPASS,Luck's Tent,11 Badges,4 Blue Shards
+Encore,ENCORE,Luck's Tent,11 Badges,4 Red Shards
+High Horsepower,HIGHHORSEPOWER,Luck's Tent,11 Badges,4 Green Shards
+Agility,AGILITY,Luck's Tent,11 Badges,4 Blue Shards
+Crunch,CRUNCH,Luck's Tent,11 Badges,4 Yellow Shards
+Blaze Kick,BLAZEKICK,Luck's Tent,11 Badges,4 Red Shards
+Cosmic Power,COSMICPOWER,Luck's Tent,15 Badges,5 Yellow Shards
+Leaf Blade,LEAFBLADE,Luck's Tent,15 Badges,5 Green Shards
+Toxic Spikes,TOXICSPIKES,Luck's Tent,15 Badges,6 Blue Shards
+Aura Sphere,AURASPHERE,Luck's Tent,15 Badges,6 Red Shards
+Heavy Slam,HEAVYSLAM,Luck's Tent,15 Badges,6 Blue Shards
+Heat Crash,HEATCRASH,Luck's Tent,15 Badges,5 Red Shards
+Gunk Shot,GUNKSHOT,Luck's Tent,15 Badges,5 Green Shards
+Pollen Puff,POLLENPUFF,Luck's Tent,15 Badges,5 Green Shards
+Terrain Pulse,TERRAINPULSE,Luck's Tent,15 Badges,6 Yellow Shards
+Earth Power,EARTHPOWER,Axis High University,None,6 Blue Shards
+Focus Punch,FOCUSPUNCH,Axis High University,None,5 Red Shards
+Drain Punch,DRAINPUNCH,Axis High University,None,6 Yellow Shards
+Pain Split,PAINSPLIT,Axis High University,None,4 Blue Shards
+Misty Explosion,MISTYEXPLOSION,Axis High University,None,7 Red Shards
+Fire Pledge,FIREPLEDGE,Axis High University,None,3 Red Shards
+Water Pledge,WATERPLEDGE,Axis High University,None,3 Blue Shards
+Grass Pledge,GRASSPLEDGE,Axis High University,None,3 Green Shards
+Superpower,SUPERPOWER,Axis High University,13 Badges,6 Yellow Shards
+Heat Wave,HEATWAVE,Axis High University,13 Badges,6 Blue Shards
+Stealth Rock,STEALTHROCK,Axis High University,13 Badges,6 Red Shards
+Future Sight,FUTURESIGHT,Axis High University,13 Badges,4 Red Shards
+Flip Turn,FLIPTURN,Axis High University,13 Badges,5 Green Shards
+Body Slam,BODYSLAM,Kingdom of Goomidra,None,2 Big Mushrooms
+Seed Bomb,SEEDBOMB,Kingdom of Goomidra,None,2 Big Mushrooms
+Dragon Pulse,DRAGONPULSE,Kingdom of Goomidra,None,3 Big Mushrooms
+Megahorn,MEGAHORN,Kingdom of Goomidra,None,3 Big Mushrooms
+Scorching Sands,SCORCHINGSANDS,Kingdom of Goomidra,None,3 Big Mushrooms
+Zen Headbutt,ZENHEADBUTT,Kingdom of Goomidra,None,2 Big Mushrooms
+Liquidation,LIQUIDATION,Kingdom of Goomidra,None,3 Big Mushrooms
+Muddy Water,MUDDYWATER,Kingdom of Goomidra,None,2 Big Mushrooms
+Defog,DEFOG,Kingdom of Goomidra,None,1 Big Mushroom
+Dual Wingbeat,DUALWINGBEAT,Kingdom of Goomidra,None,2 Big Mushrooms
+Draco Meteor,DRACOMETEOR,Kingdom of Goomidra,15 Badges,1 Balm Mushroom
+Fire Punch,FIREPUNCH,Akuwa Town,None,5 Red Shards
+Ice Punch,ICEPUNCH,Akuwa Town,None,5 Blue Shards
+Thunder Punch,THUNDERPUNCH,Akuwa Town,None,5 Yellow Shards
+Heal Bell,HEALBELL,Akuwa Town,None,3 Green Shards
+Burning Jealousy,BURNINGJEALOUSY,Akuwa Town,None,4 Red Shards
+Skitter Smack,SKITTERSMACK,Akuwa Town,None,4 Green Shards
+Stomping Tantrum,STOMPINGTANTRUM,Akuwa Town,None,5 Red Shards
+Iron Tail,IRONTAIL,Akuwa Town,None,5 Blue Shards
+Endeavor,ENDEAVOR,Akuwa Town,None,4 Green Shards
+Iron Defense,IRONDEFENSE,Akuwa Town,None,3 Yellow Shards
+Lash Out,LASHOUT,Akuwa Town,None,4 Blue Shards
+Corrosive Gas,CORROSIVEGAS,Akuwa Town,None,3 Yellow Shards
+Fire Pledge,FIREPLEDGE,Akuwa Town,None,3 Red Shards
+Water Pledge,WATERPLEDGE,Akuwa Town,None,3 Blue Shards
+Grass Pledge,GRASSPLEDGE,Akuwa Town,None,3 Green Shards
+Iron Head,IRONHEAD,Neo East Gearen City,None,5 Red Shards
+Foul Play,FOULPLAY,Neo East Gearen City,None,5 Blue Shards
+Knock Off,KNOCKOFF,Neo East Gearen City,None,5 Green Shards
+Poltergeist,POLTERGEIST,Neo East Gearen City,None,5 Yellow Shards
+Bug Buzz,BUGBUZZ,Neo East Gearen City,None,5 Green Shards
+Outrage,OUTRAGE,Neo East Gearen City,None,7 Yellow Shards
+Last Resort,LASTRESORT,Neo East Gearen City,None,5 Red Shards
+Low Kick,LOWKICK,Neo East Gearen City,None,5 Blue Shards
+Steel Roller,STEELROLLER,Neo East Gearen City,None,6 Yellow Shards
+Power Gem,POWERGEM,Neo East Gearen City,None,6 Red Shards
+Sky Attack,SKYATTACK,Hiyoshi City,None,3 Red Shards
+Skill Swap,SKILLSWAP,Hiyoshi City,None,2 Green Shards
+Magnet Rise,MAGNETRISE,Hiyoshi City,None,2 Yellow Shards
+Gravity,GRAVITY,Hiyoshi City,None,2 Blue Shards
+Recycle,RECYCLE,Hiyoshi City,None,2 Green Shards

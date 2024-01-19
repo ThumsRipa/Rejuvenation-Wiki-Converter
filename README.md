@@ -30,7 +30,7 @@ Module:Database/Encounters<br />
     - The old version is a list of maps and the possible encounters on that map. That is what is currently on Rejuvenation.wiki.gg<br />
     - The new, proposed version (which is in here) lists out the Pokemon and the maps that it can be found in<br />
     - Uses montext.rb, enctext.rb, and EventEncounters.csv as inputs<br />
-    - EventEncounters.csv to get the event encounters, which is not available through Ruby files<br />
+    - EventEncounters.csv to get the event encounters, which is not available through Ruby files. Thank you Dred for your amazing spreadsheet.<br />
     - Converts to DatabaseEncounters.txt
 
 Module:Database/Species<br />

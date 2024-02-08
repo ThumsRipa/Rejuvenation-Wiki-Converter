@@ -1,0 +1,1040 @@
+,CodeName,Name,Description
+0,REPEL,Repel,An item that prevents weak wild Pokémon from appearing for 100 steps after its use.
+1,SUPERREPEL,Super Repel,An item that prevents weak wild Pokémon from appearing for 200 steps after its use.
+2,MAXREPEL,Max Repel,An item that prevents weak wild Pokémon from appearing for 250 steps after its use.
+3,BLACKFLUTE,Black Flute,A black flute made from blown glass. Its melody makes wild Pokémon less likely to appear.
+4,WHITEFLUTE,White Flute,A white flute made from blown glass. Its melody makes wild Pokémon more likely to appear.
+5,HONEY,Honey,"A sweet honey with an aroma that attracts wild Pokémon when used in grass, caves or on special trees."
+6,ESCAPEROPE,Escape Rope,"A long, durable rope. Use it to escape instantly from a cave or a dungeon."
+7,REDSHARD,Red Shard,A small red shard. It appears to be from some sort of implement made long ago.
+8,YELLOWSHARD,Yellow Shard,A small yellow shard. It appears to be from some sort of implement made long ago.
+9,BLUESHARD,Blue Shard,A small blue shard. It appears to be from some sort of implement made long ago.
+10,GREENSHARD,Green Shard,A small green shard. It appears to be from some sort of implement made long ago.
+11,FIRESTONE,Fire Stone,A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.
+12,THUNDERSTONE,Thunderstone,A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.
+13,WATERSTONE,Water Stone,"A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue."
+14,LEAFSTONE,Leaf Stone,A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern.
+15,MOONSTONE,Moon Stone,A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.
+16,SUNSTONE,Sun Stone,A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.
+17,DUSKSTONE,Dusk Stone,A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.
+18,DAWNSTONE,Dawn Stone,A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.
+19,SHINYSTONE,Shiny Stone,A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.
+20,HELIXFOSSIL,Helix Fossil,A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell.
+21,DOMEFOSSIL,Dome Fossil,A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell.
+22,OLDAMBER,Old Amber,A piece of amber that contains the genetic material of an ancient Pokémon. It is clear with a reddish tint.
+23,ROOTFOSSIL,Root Fossil,A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root.
+24,CLAWFOSSIL,Claw Fossil,A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw.
+25,SKULLFOSSIL,Skull Fossil,A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.
+26,ARMORFOSSIL,Armor Fossil,A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.
+27,COVERFOSSIL,Cover Fossil,A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back.
+28,PLUMEFOSSIL,Plume Fossil,A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing.
+29,PRETTYWING,Pretty Wing,"Though this feather is beautiful, it's just a regular feather and has no effect on Pokémon."
+30,TINYMUSHROOM,TinyMushroom,A small and rare mushroom. It is sought after by collectors.
+31,BIGMUSHROOM,Big Mushroom,A large and rare mushroom. It is sought after by collectors.
+32,BALMMUSHROOM,BalmMushroom,A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.
+33,PEARL,Pearl,A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.
+34,BIGPEARL,Big Pearl,A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
+35,PEARLSTRING,Pearl String,Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price.
+36,STARDUST,Stardust,"Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops."
+37,STARPIECE,Star Piece,A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.
+38,COMETSHARD,Comet Shard,A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.
+39,NUGGET,Nugget,A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.
+40,BIGNUGGET,Big Nugget,A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.
+41,HEARTSCALE,Heart Scale,"A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow."
+42,RAREBONE,Rare Bone,A bone that is extremely valuable for Pokémon archaeology. It can be sold for a high price to shops.
+43,RELICCOPPER,Relic Copper,"A copper coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+44,RELICSILVER,Relic Silver,"A silver coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+45,RELICGOLD,Relic Gold,"A gold coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+46,RELICVASE,Relic Vase,"A vase made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+47,RELICBAND,Relic Band,"A bracelet made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+48,RELICSTATUE,Relic Statue,"A stone figure made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+49,RELICCROWN,Relic Crown,"A crown made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+50,GROWTHMULCH,Growth Mulch,A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+51,DAMPMULCH,Damp Mulch,A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+52,STABLEMULCH,Stable Mulch,A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+53,GOOEYMULCH,Gooey Mulch,A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+54,SHOALSALT,Shoal Salt,Pure salt that can be discovered deep inside the Shoal Cave. A maniac will buy it for a high price.
+55,SHOALSHELL,Shoal Shell,A pretty seashell that can be found deep inside the Shoal Cave. A maniac will buy it for a high price.
+56,ODDKEYSTONE,Odd Keystone,A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.
+57,AIRBALLOON,Air Balloon,"When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst."
+58,BRIGHTPOWDER,BrightPowder,An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent's accuracy.
+59,EVIOLITE,Eviolite,"A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve."
+60,FLOATSTONE,Float Stone,A very light stone. It reduces the weight of a Pokémon when held.
+61,DESTINYKNOT,Destiny Knot,"A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too."
+62,ROCKYHELMET,Rocky Helmet,"If the holder of this item takes damage, the attacker will also be damaged upon contact."
+63,EJECTBUTTON,Eject Button,"If the holder is hit by an attack, it will switch with another Pokémon in your party."
+64,REDCARD,Red Card,"A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle."
+65,SHEDSHELL,Shed Shell,"A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle."
+66,SMOKEBALL,Smoke Ball,An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.
+67,LUCKYEGG,Lucky Egg,An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.
+68,EXPSHARE,Exp. Share,An item to be held by a Pokémon. The holder gets a share of a battle's Exp. Points without battling.
+69,AMULETCOIN,Amulet Coin,An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.
+70,SOOTHEBELL,Soothe Bell,An item to be held by a Pokémon. It is a bell with a comforting chime that calms the holder and makes it friendly.
+71,CLEANSETAG,Cleanse Tag,An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
+72,CHOICEBAND,Choice Band,"An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one of its moves."
+73,CHOICESPECS,Choice Specs,"An item to be held by a Pokémon. These distinctive glasses boost Sp. Atk, but allow the use of only one of its moves."
+74,CHOICESCARF,Choice Scarf,"An item to be held by a Pokémon. This scarf boosts Speed, but allows the use of only one of its moves."
+75,HEATROCK,Heat Rock,A Pokémon held item that extends the duration of the move Sunny Day used by the holder.
+76,DAMPROCK,Damp Rock,A Pokémon held item that extends the duration of the move Rain Dance used by the holder.
+77,SMOOTHROCK,Smooth Rock,A Pokémon held item that extends the duration of the move Sandstorm used by the holder.
+78,ICYROCK,Icy Rock,A Pokémon held item that extends the duration of the move Hail used by the holder.
+79,LIGHTCLAY,Light Clay,A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.
+80,GRIPCLAW,Grip Claw,A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap.
+81,BINDINGBAND,Binding Band,A band that increases the power of binding moves when held.
+82,BIGROOT,Big Root,A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.
+83,BLACKSLUDGE,Black Sludge,A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.
+84,LEFTOVERS,Leftovers,An item to be held by a Pokémon. The holder's HP is gradually restored during battle.
+85,SHELLBELL,Shell Bell,An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.
+86,MENTALHERB,Mental Herb,An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.
+87,WHITEHERB,White Herb,An item to be held by a Pokémon. It restores any lowered stat in battle. It can be used only once.
+88,POWERHERB,Power Herb,A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.
+89,ABSORBBULB,Absorb Bulb,"A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise."
+90,CELLBATTERY,Cell Battery,"A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise."
+91,LIFEORB,Life Orb,"An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit."
+92,EXPERTBELT,Expert Belt,An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.
+93,METRONOME,Metronome,A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.
+94,MUSCLEBAND,Muscle Band,An item to be held by a Pokémon. It is a headband that slightly boosts the power of physical moves.
+95,WISEGLASSES,Wise Glasses,An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves.
+96,RAZORCLAW,Razor Claw,An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder's critical-hit ratio.
+97,SCOPELENS,Scope Lens,An item to be held by a Pokémon. It is a lens that boosts the holder's critical-hit ratio.
+98,WIDELENS,Wide Lens,An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.
+99,ZOOMLENS,Zoom Lens,"An item to be held by a Pokémon. If the holder moves after its target, its accuracy will be boosted."
+100,KINGSROCK,King's Rock,"An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch."
+101,RAZORFANG,Razor Fang,An item to be held by a Pokémon. It may make foes and allies flinch when the holder inflicts damage.
+102,LAGGINGTAIL,Lagging Tail,An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.
+103,QUICKCLAW,Quick Claw,"An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally."
+104,FOCUSBAND,Focus Band,"An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP."
+105,FOCUSSASH,Focus Sash,"An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP."
+106,FLAMEORB,Flame Orb,An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.
+107,TOXICORB,Toxic Orb,An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.
+108,STICKYBARB,Sticky Barb,A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder.
+109,IRONBALL,Iron Ball,A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
+110,RINGTARGET,Ring Target,Moves that would otherwise have no effect will land on the Pokémon that holds it.
+111,MACHOBRACE,Macho Brace,An item to be held by a Pokémon. It is a stiff and heavy brace that promotes strong growth but lowers Speed.
+112,POWERWEIGHT,Power Weight,"A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat."
+113,POWERBRACER,Power Bracer,"A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat."
+114,POWERBELT,Power Belt,"A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat."
+115,POWERLENS,Power Lens,"A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat."
+116,POWERBAND,Power Band,"A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat."
+117,POWERANKLET,Power Anklet,"A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat."
+118,LAXINCENSE,Lax Incense,An item to be held by a Pokémon. The tricky aroma of this incense may make attacks miss the holder.
+119,FULLINCENSE,Full Incense,An item to be held by a Pokémon. It is an exotic-smelling incense that makes the holder bloated and slow moving.
+120,LUCKINCENSE,Luck Incense,An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.
+121,PUREINCENSE,Pure Incense,An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
+122,SEAINCENSE,Sea Incense,An item to be held by a Pokémon. It is incense with a curious aroma that boosts the power of Water-type moves.
+123,WAVEINCENSE,Wave Incense,An item to be held by a Pokémon. It is incense with a curious aroma that boosts the power of Water-type moves.
+124,ROSEINCENSE,Rose Incense,An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Grass-type moves.
+125,ODDINCENSE,Odd Incense,An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Psychic-type moves.
+126,ROCKINCENSE,Rock Incense,An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Rock-type moves.
+127,CHARCOAL,Charcoal,An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.
+128,MYSTICWATER,Mystic Water,An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.
+129,MAGNET,Magnet,An item to be held by a Pokémon. It is a powerful magnet that boosts the power of Electric-type moves.
+130,MIRACLESEED,Miracle Seed,An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.
+131,NEVERMELTICE,NeverMeltIce,An item to be held by a Pokémon. It is a piece of ice that repels heat and boosts Ice-type moves.
+132,BLACKBELT,Black Belt,An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.
+133,POISONBARB,Poison Barb,"An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves."
+134,SOFTSAND,Soft Sand,"An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves."
+135,SHARPBEAK,Sharp Beak,"An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves."
+136,TWISTEDSPOON,TwistedSpoon,An item to be held by a Pokémon. It is a spoon imbued with telekinetic power that boosts Psychic-type moves.
+137,SILVERPOWDER,SilverPowder,"An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves."
+138,HARDSTONE,Hard Stone,An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.
+139,SPELLTAG,Spell Tag,"An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves."
+140,DRAGONFANG,Dragon Fang,An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.
+141,BLACKGLASSES,BlackGlasses,An item to be held by a Pokémon. It is a shady-looking pair of glasses that boosts Dark-type moves.
+142,METALCOAT,Metal Coat,An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.
+143,SILKSCARF,Silk Scarf,An item to be held by a Pokémon. It is a sumptuous scarf that boosts the power of Normal-type moves.
+144,FLAMEPLATE,Flame Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fire-type moves.
+145,SPLASHPLATE,Splash Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Water-type moves.
+146,ZAPPLATE,Zap Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Electric-type moves.
+147,MEADOWPLATE,Meadow Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Grass-type moves.
+148,ICICLEPLATE,Icicle Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ice-type moves.
+149,FISTPLATE,Fist Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fighting-type moves.
+150,TOXICPLATE,Toxic Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Poison-type moves.
+151,EARTHPLATE,Earth Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ground-type moves.
+152,SKYPLATE,Sky Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Flying-type moves.
+153,MINDPLATE,Mind Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Psychic-type moves.
+154,INSECTPLATE,Insect Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Bug-type moves.
+155,STONEPLATE,Stone Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Rock-type moves.
+156,SPOOKYPLATE,Spooky Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ghost-type moves.
+157,DRACOPLATE,Draco Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dragon-type moves.
+158,DREADPLATE,Dread Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dark-type moves.
+159,IRONPLATE,Iron Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Steel-type moves.
+160,FIREGEM,Fire Gem,"A gem with an essence of fire. When held, it strengthens the power of a Fire-type move only once."
+161,WATERGEM,Water Gem,"A gem with an essence of water. When held, it strengthens the power of a Water-type move only once."
+162,ELECTRICGEM,Electric Gem,"A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move only once."
+163,GRASSGEM,Grass Gem,"A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once."
+164,ICEGEM,Ice Gem,"A gem with an essence of ice. When held, it strengthens the power of an Ice-type move only once."
+165,FIGHTINGGEM,Fighting Gem,"A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move only once."
+166,POISONGEM,Poison Gem,"A gem with an essence of poison. When held, it strengthens the power of a Poison-type move only once."
+167,GROUNDGEM,Ground Gem,"A gem with an essence of land. When held, it strengthens the power of a Ground-type move only once."
+168,FLYINGGEM,Flying Gem,"A gem with an essence of air. When held, it strengthens the power of a Flying-type move only once."
+169,PSYCHICGEM,Psychic Gem,"A gem with an essence of the mind. When held, it strengthens the power of a Psychic-type move only once."
+170,BUGGEM,Bug Gem,"A gem with an insect-like essence. When held, it strengthens the power of a Bug-type move only once."
+171,ROCKGEM,Rock Gem,"A gem with an essence of rock. When held, it strengthens the power of a Rock-type move only once."
+172,GHOSTGEM,Ghost Gem,"A gem with a spectral essence. When held, it strengthens the power of a Ghost-type move only once."
+173,DRAGONGEM,Dragon Gem,"A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move only once."
+174,DARKGEM,Dark Gem,"A gem with an essence of darkness. When held, it strengthens the power of a Dark-type move only once."
+175,STEELGEM,Steel Gem,"A gem with an essence of steel. When held, it strengthens the power of a Steel-type move only once."
+176,NORMALGEM,Normal Gem,"A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move only once."
+177,LIGHTBALL,Light Ball,An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat.
+178,LUCKYPUNCH,Lucky Punch,An item to be held by Chansey. It is a pair of gloves that boosts Chansey's critical-hit ratio.
+179,METALPOWDER,Metal Powder,"An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat."
+180,QUICKPOWDER,Quick Powder,"An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat."
+181,THICKCLUB,Thick Club,An item to be held by Cubone or Marowak. It is a hard bone of some sort that boosts the Attack stat.
+182,STICK,Stick,An item to be held by Farfetch'd. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.
+183,SOULDEW,Soul Dew,A wondrous orb to be held by Latios or Latias. It raises both the Sp. Atk and Sp. Def stats.
+184,DEEPSEATOOTH,DeepSeaTooth,"An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat."
+185,DEEPSEASCALE,DeepSeaScale,"An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat."
+186,ADAMANTORB,Adamant Orb,A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon- and Steel-type moves.
+187,LUSTROUSORB,Lustrous Orb,A beautifully glowing orb to be held by Palkia. It boosts the power of Dragon- and Water-type moves.
+188,GRISEOUSORB,Griseous Orb,A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves.
+189,DOUSEDRIVE,Douse Drive,A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.
+190,SHOCKDRIVE,Shock Drive,A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.
+191,BURNDRIVE,Burn Drive,A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.
+192,CHILLDRIVE,Chill Drive,A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move.
+193,EVERSTONE,Everstone,An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.
+194,DRAGONSCALE,Dragon Scale,A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.
+195,UPGRADE,Up-Grade,A transparent device filled with all sorts of data. It was produced by Silph Co.
+196,DUBIOUSDISC,Dubious Disc,A transparent device overflowing with dubious data.  Its producer is unknown.
+197,PROTECTOR,Protector,A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon.
+198,ELECTIRIZER,Electirizer,A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.
+199,MAGMARIZER,Magmarizer,A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.
+200,REAPERCLOTH,Reaper Cloth,A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon.
+201,PRISMSCALE,Prism Scale,A mysterious scale that evolves certain Pokémon. It shines in rainbow colors.
+202,OVALSTONE,Oval Stone,A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.
+203,REDSCARF,Old Scarf,An old scarf. It looks like it's been here for ages.
+204,BLUESCARF,Blue Scarf,An item to be held by a Pokémon. It boosts the Beauty aspect of the holder in a Contest.
+205,PINKSCARF,Pink Scarf,An item to be held by a Pokémon. It boosts the Cute aspect of the holder in a Contest.
+206,GREENSCARF,Green Scarf,An item to be held by a Pokémon. It boosts the Smart aspect of the holder in a Contest.
+207,YELLOWSCARF,Yellow Scarf,An item to be held by a Pokémon. It boosts the Tough aspect of the holder in a Contest.
+208,POTION,Potion,A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points.
+209,SUPERPOTION,Super Potion,A spray-type medicine for wounds. It restores the HP of one Pokémon by 60 points.
+210,HYPERPOTION,Hyper Potion,A spray-type medicine for wounds. It restores the HP of one Pokémon by 120 points.
+211,MAXPOTION,Max Potion,A spray-type medicine for wounds. It completely restores the HP of a single Pokémon.
+212,FULLRESTORE,Full Restore,A medicine that fully restores the HP and heals any status problems of a single Pokémon.
+213,SACREDASH,Sacred Ash,"It revives all fainted Pokémon. In doing so, it also fully restores their HP."
+214,AWAKENING,Awakening,A spray-type medicine. It awakens a Pokémon from the clutches of sleep.
+215,ANTIDOTE,Antidote,A spray-type medicine. It lifts the effect of poison from one Pokémon.
+216,BURNHEAL,Burn Heal,A spray-type medicine. It heals a single Pokémon that is suffering from a burn.
+217,PARLYZHEAL,Paralyze Heal,A spray-type medicine. It eliminates paralysis from a single Pokémon.
+218,ICEHEAL,Ice Heal,A spray-type medicine. It defrosts a Pokémon that has been frozen solid.
+219,FULLHEAL,Full Heal,A spray-type medicine. It heals all the status problems of a single Pokémon.
+220,LAVACOOKIE,Lava Cookie,Lavaridge Town's local specialty. It heals all the status problems of one Pokémon.
+221,OLDGATEAU,Old Gateau,Old Chateau's hidden specialty. It heals all the status problems of a single Pokémon.
+222,CASTELIACONE,Casteliacone,"Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon."
+223,REVIVE,Revive,A medicine that revives a fainted Pokémon. It restores half the Pokémon's maximum HP.
+224,MAXREVIVE,Max Revive,A medicine that revives a fainted Pokémon. It fully restores the Pokémon's HP.
+225,BERRYJUICE,Berry Juice,A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.
+226,RAGECANDYBAR,RageCandyBar,A famous Mahogany Town candy tourists like to buy and take home. It restores the HP of one Pokémon by 20 points.
+227,SWEETHEART,Sweet Heart,Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.
+228,FRESHWATER,Fresh Water,Water with a high mineral content. It restores the HP of one Pokémon by 30 points.
+229,SODAPOP,Soda Pop,A fizzy soda drink. It restores the HP of one Pokémon by 50 points.
+230,LEMONADE,Lemonade,A very sweet drink. It restores the HP of one Pokémon by 70 points.
+231,MOOMOOMILK,Moomoo Milk,Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.
+232,ENERGYPOWDER,EnergyPowder,A very bitter medicine powder. It restores the HP of one Pokémon by 50 points.
+233,ENERGYROOT,Energy Root,A very bitter root. It restores the HP of one Pokémon by 120 points.
+234,HEALPOWDER,Heal Powder,A very bitter medicine powder. It heals all the status problems of a single Pokémon.
+235,REVIVALHERB,Revival Herb,"A very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP."
+236,ETHER,Ether,It restores the PP of a Pokémon's selected move by a maximum of 10 points.
+237,MAXETHER,Max Ether,It fully restores the PP of a single selected move that has been learned by the target Pokémon.
+238,ELIXIR,Elixir,It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.
+239,MAXELIXIR,Max Elixir,It fully restores the PP of all the moves learned by the targeted Pokémon.
+240,PPUP,PP Up,It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.
+241,PPMAX,PP Max,It maximally raises the top PP of a selected move that has been learned by the target Pokémon.
+242,HPUP,HP Up,A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.
+243,PROTEIN,Protein,A nutritious drink for Pokémon. It raises the base Attack stat of a single Pokémon.
+244,IRON,Iron,A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.
+245,CALCIUM,Calcium,A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon.
+246,ZINC,Zinc,A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon.
+247,CARBOS,Carbos,A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon.
+248,HEALTHWING,Health Wing,An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon.
+249,MUSCLEWING,Muscle Wing,An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.
+250,RESISTWING,Resist Wing,An item for use on a Pokémon. It slightly increases the base Defense stat of a single Pokémon.
+251,GENIUSWING,Genius Wing,An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.
+252,CLEVERWING,Clever Wing,An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon.
+253,SWIFTWING,Swift Wing,An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.
+254,RARECANDY,Rare Candy,A candy that is packed with energy. It raises the level of a single Pokémon by one.
+255,MASTERBALL,Master Ball,The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
+256,ULTRABALL,Ultra Ball,An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.
+257,GREATBALL,Great Ball,"A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball."
+258,POKEBALL,Poké Ball,A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
+259,SAFARIBALL,Safari Ball,A special Poké Ball that is used only in the Great Marsh. It is decorated in a camouflage pattern.
+260,SPORTBALL,Sport Ball,A special Poké Ball for the Bug-Catching Contest.
+261,NETBALL,Net Ball,A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon.
+262,DIVEBALL,Dive Ball,A somewhat different Poké Ball that works especially well on Pokémon that live underwater.
+263,NESTBALL,Nest Ball,A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild.
+264,REPEATBALL,Repeat Ball,A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.
+265,TIMERBALL,Timer Ball,A somewhat different Ball that becomes progressively better the more turns there are in a battle.
+266,LUXURYBALL,Luxury Ball,A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.
+267,PREMIERBALL,Premier Ball,A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
+268,DUSKBALL,Dusk Ball,A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.
+269,HEALBALL,Heal Ball,A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.
+270,QUICKBALL,Quick Ball,A somewhat different Poké Ball that provides a better catch rate if it is used at the start of a wild encounter.
+271,CHERISHBALL,Cherish Ball,A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.
+272,FASTBALL,Fast Ball,A Poké Ball that makes it easier to catch Pokémon which are quick to run away.
+273,LEVELBALL,Level Ball,A Poké Ball for catching Pokémon that are a lower level than your own.
+274,LUREBALL,Lure Ball,A Poké Ball for catching Pokémon hooked by a Rod when fishing.
+275,HEAVYBALL,Heavy Ball,A Poké Ball for catching very heavy Pokémon.
+276,LOVEBALL,Love Ball,A Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.
+277,FRIENDBALL,Friend Ball,A Poké Ball that makes caught Pokémon more friendly.
+278,MOONBALL,Moon Ball,A Poké Ball for catching Pokémon that evolve using the Moon Stone.
+279,TM01,TM01,"The user is roused, and its Attack and Sp. Atk stats increase."
+280,TM02,TM02,"The user slashes the target with huge, sharp claws."
+281,TM03,TM03,The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+282,TM04,TM04,The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.
+283,TM05,TM05,"The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends."
+284,TM06,TM06,A move that leaves the target badly poisoned. Its poison damage worsens every turn.
+285,TM07,TM07,Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice.
+286,TM08,TM08,"The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats."
+287,TM09,TM09,The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned.
+288,TM10,TM10,A unique attack that varies in type and intensity depending on the Pokémon using it.
+289,TM11,TM11,"The user intensifies the sun for five turns, powering up Fire-type moves."
+290,TM12,TM12,The target is taunted into a rage that allows it to use only attack moves for three turns.
+291,TM13,TM13,The target is struck with an icy-cold beam of energy. It may also freeze the target solid.
+292,TM14,TM14,A howling blizzard is summoned to strike the opposing team. It may also freeze them solid.
+293,TM15,TM15,The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy.
+294,TM16,TM16,A wondrous wall of light is put up to suppress damage from special attacks for five turns.
+295,TM17,TM17,It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+296,TM18,TM18,"The user summons a heavy rain that falls for five turns, powering up Water-type moves."
+297,TM19,TM19,The user attacks the target with a secret power. Its added effects vary depending on the user's environment.
+298,TM20,TM20,The user creates a protective field that prevents status problems for five turns.
+299,TM21,TM21,A full-power attack that grows more powerful the less the user likes its Trainer.
+300,TM22,TM22,"A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn."
+301,TM23,TM23,The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit.
+302,TM24,TM24,A strong electric blast is loosed at the target. It may also leave the target with paralysis.
+303,TM25,TM25,A wicked thunderbolt is dropped on the target to inflict damage. It may also leave the target with paralysis.
+304,TM26,TM26,The user sets off an earthquake that strikes every Pokémon around it.
+305,TM27,TM27,A full-power attack that grows more powerful the more the user likes its Trainer.
+306,TM28,TM28,"The user burrows, then attacks on the second turn. It can also be used to exit dungeons."
+307,TM29,TM29,The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat.
+308,TM30,TM30,The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat.
+309,TM31,TM31,"The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect."
+310,TM32,TM32,"By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+311,TM33,TM33,A wondrous wall of light is put up to suppress damage from physical attacks for five turns.
+312,TM34,TM34,It swamps the area around the user with a giant sludge wave. It may also poison those hit.
+313,TM35,TM35,The target is scorched with an intense blast of fire. It may also leave the target with a burn.
+314,TM36,TM36,Unsanitary sludge is hurled at the target. It may also poison the target.
+315,TM37,TM37,"A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types."
+316,TM38,TM38,The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.
+317,TM39,TM39,Boulders are hurled at the target. It also lowers the target's Speed by preventing its movement.
+318,TM40,TM40,"The user confounds the target with speed, then slashes. The attack lands without fail."
+319,TM41,TM41,"The user torments and enrages the target, making it incapable of using the same move twice in a row."
+320,TM42,TM42,"An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn."
+321,TM43,TM43,"The user cloaks itself with flame and attacks. Building up more power, it raises the user's Speed stat."
+322,TM44,TM44,The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.
+323,TM45,TM45,"If it is the opposite gender of the user, the target becomes infatuated and less likely to attack."
+324,TM46,TM46,The user attacks and steals the target's held item simultaneously. It can't steal if the user holds an item.
+325,TM47,TM47,"The user attacks the target's legs swiftly, reducing the target's Speed stat."
+326,TM48,TM48,The user attacks the target with a song. Others can join in the Round and make the attack do greater damage.
+327,TM49,TM49,"The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage."
+328,TM50,TM50,The user attacks the target at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.
+329,TM51,TM51,The target is hit with wings of steel. This may also raise the user's Defense stat.
+330,TM52,TM52,The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.
+331,TM53,TM53,The user draws power from nature and fires it at the target. It may also lower the target's Sp. Def.
+332,TM54,TM54,A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.
+333,TM55,TM55,The user shoots boiling hot water at its target. It may also leave the target with a burn.
+334,TM56,TM56,The user flings its held item at the target as an attack. Its power and effects depend on the item.
+335,TM57,TM57,The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.
+336,TM58,TM58,"The user hurls the target into the air, then drops it on the second turn. The target cannot attack while in the air."
+337,TM59,TM59,"The user attacks the target with fire. If the target is holding a Berry, the Berry becomes burnt up and unusable."
+338,TM60,TM60,The user suppresses the target and makes its move go last.
+339,TM61,TM61,"The user shoots a sinister, bluish-white flame at the target to inflict a burn."
+340,TM62,TM62,"The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage."
+341,TM63,TM63,It prevents the target from using its held item. Its Trainer is also prevented from using items on it.
+342,TM64,TM64,The user explodes to inflict damage on those around it. The user faints upon using this move.
+343,TM65,TM65,The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.
+344,TM66,TM66,"The user stores power, then attacks. If the user can use this attack after the target, its power is doubled."
+345,TM67,TM67,The user lands and rests its body. It restores the user's HP by up to half of its max HP.
+346,TM68,TM68,The user charges at the target using every bit of its power. The user must rest on the next turn.
+347,TM69,TM69,The user polishes its body to reduce drag. It sharply raises the Speed stat.
+348,TM70,TM70,The user flashes a bright light that cuts the target's accuracy. It can also be used to illuminate caves.
+349,TM71,TM71,The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.
+350,TM72,TM72,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+351,TM73,TM73,A weak electric charge is launched at the target. It causes paralysis if it hits.
+352,TM74,TM74,"The user tackles the target with a high-speed spin. The slower the user, the greater the damage."
+353,TM75,TM75,A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.
+354,TM76,TM76,"Resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced."
+355,TM77,TM77,The user hypnotizes itself into copying any stat change made by the target.
+356,TM78,TM78,The user stomps down on the ground and attacks everything in the area. The targets' Speed stat is reduced.
+357,TM79,TM79,The user blows a cold breath on the target. This attack always results in a critical hit.
+358,TM80,TM80,Large boulders are hurled at the opposing team to inflict damage. They may also make the targets flinch.
+359,TM81,TM81,The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.
+360,TM82,TM82,"The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends."
+361,TM83,TM83,The target is infested and attacked for four to five turns. The target can't flee during this time.
+362,TM84,TM84,The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target.
+363,TM85,TM85,The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user's HP.
+364,TM86,TM86,"The user snares the target with grass and trips it. The heavier the target, the greater the damage."
+365,TM87,TM87,"The user enrages and confuses the target. However, it also sharply raises the target's Attack stat."
+366,TM88,TM88,"While it is asleep, the user randomly uses one of the moves it knows."
+367,TM89,TM89,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+368,TM90,TM90,The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.
+369,TM91,TM91,The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat.
+370,TM92,TM92,The user creates a bizarre space in which slower Pokémon get to move first for five turns.
+371,TM93,TM93,The user shrouds itself in electricity and smashes into its target. It also damages the user a little.
+372,TM94,TM94,The user attacks with a punch that can shatter a rock. It may also lower the target's Defense stat.
+373,TM95,TM95,"The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease."
+374,CHERIBERRY,Cheri Berry,It may be used or held by a Pokémon to recover from paralysis.
+375,CHESTOBERRY,Chesto Berry,It may be used or held by a Pokémon to recover from sleep.
+376,PECHABERRY,Pecha Berry,It may be used or held by a Pokémon to recover from poison.
+377,RAWSTBERRY,Rawst Berry,It may be used or held by a Pokémon to recover from a burn.
+378,ASPEARBERRY,Aspear Berry,It may be used or held by a Pokémon to defrost it.
+379,LEPPABERRY,Leppa Berry,It may be used or held by a Pokémon to restore a move's PP by 10.
+380,ORANBERRY,Oran Berry,It may be used or held by a Pokémon to heal the user by just 10 HP.
+381,PERSIMBERRY,Persim Berry,It may be used or held by a Pokémon to recover from confusion.
+382,LUMBERRY,Lum Berry,It may be used or held by a Pokémon to recover from any status problem.
+383,SITRUSBERRY,Sitrus Berry,It may be used or held by a Pokémon to heal the user's HP a little.
+384,FIGYBERRY,Figy Berry,"If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste."
+385,WIKIBERRY,Wiki Berry,"If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste."
+386,MAGOBERRY,Mago Berry,"If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste."
+387,AGUAVBERRY,Aguav Berry,"If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste."
+388,IAPAPABERRY,Iapapa Berry,"If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste."
+389,RAZZBERRY,Razz Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+390,BLUKBERRY,Bluk Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+391,NANABBERRY,Nanab Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+392,WEPEARBERRY,Wepear Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+393,PINAPBERRY,Pinap Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+394,POMEGBERRY,Pomeg Berry,"Using it on a Pokémon makes it more friendly, but it also lowers its base HP."
+395,KELPSYBERRY,Kelpsy Berry,"Using it on a Pokémon makes it more friendly, but it also lowers its base Attack stat."
+396,QUALOTBERRY,Qualot Berry,"Using it on a Pokémon makes it more friendly, but it also lowers its base Defense stat."
+397,HONDEWBERRY,Hondew Berry,"Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Atk stat."
+398,GREPABERRY,Grepa Berry,"Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Def stat."
+399,TAMATOBERRY,Tamato Berry,"Using it on a Pokémon makes it more friendly, but it also lowers its base Speed stat."
+400,CORNNBERRY,Cornn Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+401,MAGOSTBERRY,Magost Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+402,RABUTABERRY,Rabuta Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+403,NOMELBERRY,Nomel Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+404,SPELONBERRY,Spelon Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+405,PAMTREBERRY,Pamtre Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+406,WATMELBERRY,Watmel Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+407,DURINBERRY,Durin Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+408,BELUEBERRY,Belue Berry,"In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon."
+409,OCCABERRY,Occa Berry,Weakens a supereffective Fire-type attack against the holding Pokémon.
+410,PASSHOBERRY,Passho Berry,Weakens a supereffective Water-type attack against the holding Pokémon.
+411,WACANBERRY,Wacan Berry,Weakens a supereffective Electric-type attack against the holding Pokémon.
+412,RINDOBERRY,Rindo Berry,Weakens a supereffective Grass-type attack against the holding Pokémon.
+413,YACHEBERRY,Yache Berry,Weakens a supereffective Ice-type attack against the holding Pokémon.
+414,CHOPLEBERRY,Chople Berry,Weakens a supereffective Fighting-type attack against the holding Pokémon.
+415,KEBIABERRY,Kebia Berry,Weakens a supereffective Poison-type attack against the holding Pokémon.
+416,SHUCABERRY,Shuca Berry,Weakens a supereffective Ground-type attack against the holding Pokémon.
+417,COBABERRY,Coba Berry,Weakens a supereffective Flying-type attack against the holding Pokémon.
+418,PAYAPABERRY,Payapa Berry,Weakens a supereffective Psychic-type attack against the holding Pokémon.
+419,TANGABERRY,Tanga Berry,Weakens a supereffective Bug-type attack against the holding Pokémon.
+420,CHARTIBERRY,Charti Berry,Weakens a supereffective Rock-type attack against the holding Pokémon.
+421,KASIBBERRY,Kasib Berry,Weakens a supereffective Ghost-type attack against the holding Pokémon.
+422,HABANBERRY,Haban Berry,Weakens a supereffective Dragon-type attack against the holding Pokémon.
+423,COLBURBERRY,Colbur Berry,Weakens a supereffective Dark-type attack against the holding Pokémon.
+424,BABIRIBERRY,Babiri Berry,Weakens a supereffective Steel-type attack against the holding Pokémon.
+425,CHILANBERRY,Chilan Berry,Weakens a Normal-type attack against the Pokémon holding this berry.
+426,LIECHIBERRY,Liechi Berry,"If held by a Pokémon, it raises its Attack stat in a pinch."
+427,GANLONBERRY,Ganlon Berry,"If held by a Pokémon, it raises its Defense stat in a pinch."
+428,SALACBERRY,Salac Berry,"If held by a Pokémon, it raises its Speed stat in a pinch."
+429,PETAYABERRY,Petaya Berry,"If held by a Pokémon, it raises its Sp. Atk stat in a pinch."
+430,APICOTBERRY,Apicot Berry,"If held by a Pokémon, it raises its Sp. Def stat in a pinch."
+431,LANSATBERRY,Lansat Berry,"If held by a Pokémon, it raises its critical-hit ratio in a pinch."
+432,STARFBERRY,Starf Berry,"If held by a Pokémon, it sharply raises one of its stats in a pinch."
+433,ENIGMABERRY,Enigma Berry,"If held by a Pokémon, it restores its HP if it is hit by any supereffective attack."
+434,MICLEBERRY,Micle Berry,"If held by a Pokémon, it raises the accuracy of a move just once in a pinch."
+435,CUSTAPBERRY,Custap Berry,"If held by a Pokémon, it gets to move first just once in a pinch."
+436,JABOCABERRY,Jaboca Berry,"If held by a Pokémon and a physical attack lands, the attacker also takes damage."
+437,ROWAPBERRY,Rowap Berry,"If held by a Pokémon and a special attack lands, the attacker also takes damage."
+438,GRASSMAIL,Grass Mail,Stationery featuring a print of a refreshingly green field. Let a Pokémon hold it for delivery.
+439,FLAMEMAIL,Flame Mail,Stationery featuring a print of flames in blazing red. Let a Pokémon hold it for delivery.
+440,BUBBLEMAIL,Bubble Mail,Stationery featuring a print of a blue world underwater. Let a Pokémon hold it for delivery.
+441,BLOOMMAIL,Bloom Mail,Stationery featuring a print of pretty floral patterns. Let a Pokémon hold it for delivery.
+442,TUNNELMAIL,Tunnel Mail,Stationery featuring a print of a dimly lit coal mine. Let a Pokémon hold it for delivery.
+443,STEELMAIL,Steel Mail,Stationery featuring a print of cool mechanical designs. Let a Pokémon hold it for delivery.
+444,HEARTMAIL,Heart Mail,Stationery featuring a print of giant heart patterns. Let a Pokémon hold it for delivery.
+445,SNOWMAIL,Snow Mail,"Stationery featuring a print of a chilly, snow-covered world. Let a Pokémon hold it for delivery."
+446,SPACEMAIL,Space Mail,Stationery featuring a print depicting the huge expanse of space. Let a Pokémon hold it for delivery.
+447,AIRMAIL,Air Mail,Stationery featuring a print of colorful letter sets. Let a Pokémon hold it for delivery.
+448,MOSAICMAIL,Mosaic Mail,Stationery featuring a print of a vivid rainbow pattern. Let a Pokémon hold it for delivery.
+449,BRICKMAIL,Brick Mail,Stationery featuring a print of a tough-looking brick pattern. Let a Pokémon hold it for delivery.
+450,XATTACK,X Attack,An item that raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+451,XATTACK2,X Attack 2,It sharply raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+452,XATTACK3,X Attack 3,It drastically raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+453,XATTACK6,X Attack 6,It raises the Attack stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+454,XDEFEND,X Defend,An item that raises the Defense of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+455,XDEFEND2,X Defend 2,It sharply raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+456,XDEFEND3,X Defend 3,It drastically raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+457,XDEFEND6,X Defend 6,It raises the Defense stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+458,XSPECIAL,X Special,An item that raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+459,XSPECIAL2,X Special 2,It sharply raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+460,XSPECIAL3,X Special 3,It drastically raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+461,XSPECIAL6,X Special 6,It raises the Sp. Atk stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+462,XSPDEF,X Sp. Def,An item that raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+463,XSPDEF2,X Sp. Def 2,It sharply raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+464,XSPDEF3,X Sp. Def 3,It drastically raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+465,XSPDEF6,X Sp. Def 6,It raises the Sp. Def stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+466,XSPEED,X Speed,An item that raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+467,XSPEED2,X Speed 2,It sharply raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+468,XSPEED3,X Speed 3,It drastically raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+469,XSPEED6,X Speed 6,It raises the Speed stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+470,XACCURACY,X Accuracy,An item that raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+471,XACCURACY2,X Accuracy 2,It sharply raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+472,XACCURACY3,X Accuracy 3,It drastically raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+473,XACCURACY6,X Accuracy 6,It raises the accuracy of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+474,DIREHIT,Dire Hit,It raises the critical-hit ratio greatly. It can be used only once and wears off if the Pokémon is withdrawn.
+475,DIREHIT2,Dire Hit 2,It can be used many times to raise the critical-hit ratio of one Pokémon. It wears off if the Pokémon is withdrawn.
+476,DIREHIT3,Dire Hit 3,It can be used many times to greatly raise a Pokémon's critical-hit ratio. It wears off if the Pokémon is withdrawn.
+477,GUARDSPEC,Guard Spec.,An item that prevents stat reduction among the Trainer's party Pokémon for five turns after use.
+478,BLUEFLUTE,Blue Flute,A blue flute made from blown glass. Its melody awakens a single Pokémon from sleep.
+479,YELLOWFLUTE,Yellow Flute,A yellow flute made from blown glass. Its melody snaps a single Pokémon out of confusion.
+480,REDFLUTE,Red Flute,A red flute made from blown glass. Its melody snaps a single Pokémon out of infatuation.
+481,POKEDOLL,Poké Doll,A doll that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+482,FLUFFYTAIL,Fluffy Tail,An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+483,POKETOY,Poké Toy,An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+484,BICYCLE,Bicycle,A folding Bicycle that enables much faster movement than the Running Shoes.
+485,OLDROD,Old Rod,An old and beat-up fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.
+486,GOODROD,Good Rod,"A new, good-quality fishing rod. Use it by any body of water to fish for wild aquatic Pokémon."
+487,SUPERROD,Super Rod,"An awesome, high-tech fishing rod. Use it by any body of water to fish for wild aquatic Pokémon."
+488,ITEMFINDER,Itemfinder,"A device used for finding items. If there is a hidden item nearby when it is used, it emits a signal."
+489,DOWSINGMCHN,Dowsing MCHN,It checks for unseen items in the area and makes noise and lights when it finds something.
+490,POKERADAR,Poké Radar,A tool that can search out Pokémon that are hiding in grass. Its battery is recharged as you walk.
+491,TOWNMAP,Town Map,A very convenient map that can be viewed anytime. It even shows your present location.
+492,POKEFLUTE,Poké Flute,A flute that is said to instantly awaken any Pokémon. It has a lovely tone.
+493,COINCASE,Coin Case,"A case for holding coins obtained at the Game Corner. It holds up to 50,000 coins."
+494,SILPHSCOPE,Silph Scope,A scope that makes unseeable Pokémon visible. It is made by Silph Co.
+495,SQUIRTBOTTLE,Squirtbottle,A bottle used for watering plants.
+496,SPRAYDUCK,Sprayduck,A watering can shaped like a Psyduck. It helps promote healthy growth of Berries planted in soft soil.
+497,WAILMERPAIL,Wailmer Pail,A tool used for watering Berries and plants.
+498,GRACIDEA,Gracidea,A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays.
+499,AURORATICKET,Aurora Ticket,A ticket required to board the ship to Doxy Island. It glows beautifully.
+500,OLDSEAMAP,Old Sea Map,A faded sea chart that shows the way to a certain island.
+501,DNASPLICERS,DNA Splicers,A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.
+502,REVEALGLASS,Reveal Glass,A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.
+503,OVALCHARM,Oval Charm,An oval charm said to increase the chance of Eggs being found at the Day Care.
+504,SHINYCHARM,Shiny Charm,A shiny charm said to increase the chance of finding a Shiny Pokémon.
+505,REVERSECANDY,Reverse Candy,A candy that does the reverse role that of a Rare Candy.
+506,MYSTERYGOOD,Mystery Good,An item that you can't quite make out. What is it?
+507,GOTHCREST,Gothitelle Crest,Using Dark- and Psychic-type moves swaps between respective types. Recovers HP.
+508,LOVELETTE,Love Letter,A mystery love letter that is meant for Cameron.
+509,DEMONSTONE,Rift Matter,A mysterious stone
+510,CHINESEFOOD,Mystery Bowl,Weird concoction of ingredients. It smells good-ish?
+511,SOULSTONE,Soul Stone,A mysterious stone with a mystical presence inside.
+512,WEIRDLETTER,Weird Letter,A suspicious letter given to you by a scientist.
+513,LINKHEART,Link Heart,A stone that fills the Pokemon's heart with a feeling similar to that of being traded.
+514,GOURMETTREAT,GourmetTreat,A treat that attracts rogue wild Pokemon.
+515,ABOMASITE,Abomasite,"One variety of Mega Stone. Have Abomasnow hold it, and this stone will enable it to Mega Evolve in battle."
+516,ABSOLITE,Absolite,"One variety of Mega Stone. Have Absol hold it, and this stone will enable it to Mega Evolve in battle."
+517,AERODACTYLITE,Aerodactylite,"One variety of Mega Stone. Have Aerodactyl hold it, and this stone will enable it to Mega Evolve in battle."
+518,AGGRONITE,Aggronite,"One variety of Mega Stone. Have Aggron hold it, and this stone will enable it to Mega Evolve in battle."
+519,ALAKAZITE,Alakazite,"One variety of Mega Stone. Have Alakazam hold it, and this stone will enable it to Mega Evolve in battle."
+520,AMPHAROSITE,Ampharosite,"One variety of Mega Stone. Have Ampharos hold it, and this stone will enable it to Mega Evolve in battle."
+521,ASSAULTVEST,Assault Vest,An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.
+522,BANETTITE,Banettite,"One variety of Mega Stone. Have Banette hold it, and this stone will enable it to Mega Evolve in battle."
+523,BLASTOISINITE,Blastoisinite,"One  variety of Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve in battle."
+524,BLAZIKENITE,Blazikenite,"One variety of Mega Stone. Have Blaziken hold it, and this stone will enable it to Mega Evolve in battle."
+525,CHARIZARDITEX,Charizardite X,"One variety of Mega Stone. Have Charizard hold it, and this stone will enable it to Mega Evolve in battle."
+526,CHARIZARDITEY,Charizardite Y,"One variety of Mega Stone. Have Charizard hold it, and this stone will enable it to Mega Evolve in battle."
+527,GARCHOMPITE,Garchompite,"One variety of Mega Stone. Have Garchomp hold it, and this stone will enable it to Mega Evolve in battle."
+528,GARDEVOIRITE,Gardevoirite,"One variety of Mega Stone. Have Gardevoir hold it, and this stone will enable it to Mega Evolve in battle."
+529,GENGARITE,Gengarite,"One variety of Mega Stone. Have Gengar hold it, and this stone will enable it to Mega Evolve in battle."
+530,GYARADOSITE,Gyaradosite,"One variety of Mega Stone. Have Gyarados hold it, and this stone will enable it to Mega Evolve in battle.,"
+531,HERACRONITE,Heracronite,A stone that enables Heracross to Mega Evolve in Battle.
+532,HOUNDOOMINITE,Houndoominite,"One variety of Mega Stone. Have Houndoom hold it, and this stone will enable it to Mega Evolve in battle."
+533,INTRIGUINGSTONE,Intriguing Stone,A rather curious stone that might appear to be valuable to some. It's all in the eye of the beholder.
+534,JAWFOSSIL,Jaw Fossil,A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its jaw.
+535,KANGASKHANITE,Kangaskhanite,"One variety of Mega Stone. Have Kangaskhan hold it, and this stone will enable it to Mega Evolve in battle."
+536,KEEBERRY,Kee Berry,"If held by a Pokémon, this Berry will increase the Pokémon's Defense stat when hit by a physical attack."
+537,LUCARIONITE,Lucarionite,"One variety of Mega Stone. Have Lucario hold it, and this stone will enable it to Mega Evolve in battle."
+538,LUMIOSEGALETTE,Lumiose Galette,It can be used once to heal all the status conditions of a Pokémon.
+539,MANECTITE,Manectite,"One variety of Mega Stone. Have Manectric hold it, and this stone will enable it to Mega Evolve in battle."
+540,MARANGABERRY,Maranga Berry,"If held by a Pokémon, this Berry will increase the Pokémon's Sp. Defense stat when hit by a special attack."
+541,MAWILITE,Mawilite,"One variety of Mega Stone. Have Mawile hold it, and this stone will enable it to Mega Evolve in battle."
+542,MEDICHAMITE,Medichamite,"One variety of Mega Stone. Have Medicham hold it, and this stone will enable it to Mega Evolve in battle."
+543,MEGARING,Mega-Z Ring,This ring contains untold power that unleashes the hidden potential of certain Pokemon!
+544,MEWTWONITEX,Mewtwonite X,"One of Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve in battle"
+545,MEWTWONITEY,Mewtwonite Y,"One of Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve in battle"
+546,PINSIRITE,Pinsirite,"One variety of Mega Stone. Have Pinsir hold it, and this stone will enable it to Mega Evolve in battle."
+547,PIXIEPLATE,Pixie Plate,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fairy-type moves.
+548,ROSELIBERRY,Roseli Berry,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fairy-type attack."
+549,SACHET,Sachet,A sachet filled with fragrant perfumes that are just slightly too overwhelming. Yet it's loved by a certain Pokémon.
+550,SAFETYGOGGLES,Safety Goggles,An item to be held by a Pokémon. These goggles protect the holder from both weather-related damage and powder.
+551,SAILFOSSIL,Sail Fossil,A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its sail
+552,SCIZORITE,Scizorite,"One variety of Mega Stone. Have Scizor hold it, and this stone will enable it to Mega Evolve in battle."
+553,SNOWBALL,Snowball,An item to be held by a Pokémon. It boosts Attack if hit with an Ice-type attack. It can only be used once.
+554,TYRANITARITE,Tyranitarite,"One variety of Mega Stone. Have Tyranitar hold it, and this stone will enable it to Mega Evolve in battle."
+555,VENUSAURITE,Venusaurite,"One variety of Mega Stone. Have Venusaur hold it, and this stone will enable it to Mega Evolve in battle."
+556,WEAKNESSPOLICY,Weakness Policy,An item to be held by a Pokémon. Attack and Sp. Atk sharply increase if the holder is hit with a move it's weak to.
+557,WHIPPEDDREAM,Whipped Dream,"A soft and sweet treat made of fluffy, puffy, whipped and whirled cream. It's loved by a certain Pokémon."
+558,ABILITYCAPSULE,Ability Capsule,A capsule that allows a Pokémon to switch abilities when it is used.
+559,TM96,TM96,An attack that makes use of nature's power. Its effects vary depending on the user's environment.
+560,TM97,TM97,The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.
+561,TM98,TM98,Striking opponents over and over makes the user's fists harder. Hitting a target raises the Attack stat.
+562,TM99,TM99,The user damages opposing Pokémon by emitting a powerful flash.
+563,TM100,TM100,"The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk stat."
+564,SPICEPOWDER,Spice Powder,Tropical spices grounded up into one. Great for getting pesky Pokemon to move from their location.
+565,ANCIENTWING,Ancient Wing,A mysterious stone wing. It looks like it was attatched to something.
+566,ROOMIDCARD,Room ID Card,A card key that was found in Melia's bag. It seems a little damaged...
+567,EMOTIONPOWDER,Emotion Powder,A mysterious substance that is used to travel in Valor Mountain.
+568,DULLKEY,Dull Key,A peculiar key to some door in Aevium.
+569,SECRETPOTION,Secret Potion,An extremely powerful medicine that originated from Olivine City in the Johto region.
+570,EXCLUSIVEPASS,Exclusive Pass,A pass that allows the lucky weilder to enter Grand Dream City during their celebrity event.
+571,JOYSCENT,Joy Scent,This scent massage opens the hearts of Pokémon a little.
+572,EXCITESCENT,Excite Scent,This scent massage opens the hearts of Pokémon.
+573,VIVIDSCENT,Vivid Scent,This scent massage opens the hearts of Pokémon a lot.
+574,TIMEFLUTE,Time Flute,This item fully opens the hearts of a Shadow Pokémon.
+575,WHITEKEY,White Key,A mysterious key that opens a door somewhere nearby.
+576,MININGKIT,Mining Kit,A kit that contains tools for mining.
+577,LADDER,Ladder,A sturdy ladder
+578,ODDKEY,Odd Key,A key to some house in Goldenleaf.
+579,BRASSKEY,Brass Key,A key that can be used to open up the way to the Lost Camp.
+580,BLACKSHARD,Black Shard,An extremely rare shard that can only be found in certain places.
+581,TM101,TM101,The Pokémon uses its claws to grapple onto certain surfaces. Enabling it to climb.
+582,CHESTNUT,Chestnut,A spiny delicacy. It restores 20 HP.
+583,CRYSTALSHARD,Crystal Shard,A mysterious crystal that is said to awaken nearby Timesplicer stones.
+584,VISITORSPASS,Visitor's Pass,A pass that allows visitors to access Axis University.
+585,METAGROSSITE,Metagrossite,"One variety of Mega Stone. Have Metagross hold it, and this stone will enable it to Mega Evolve in battle."
+586,DEFIBRILLATOR,Defibrillator,A machine that can conduct electricity into a person.
+587,YACHTKEYS,Yacht Keys,Keys to Tesla's Yacht on Teila Resort's shore.
+588,MOONDIAL,Moon Dial,A pendant that's oddly shaped like a Pokemon...
+589,PHASEDIAL,Phase Dial,A pendant that's simultaneously shaped like the sun and the moon.
+590,CENTERKEYS,Center Keys,Keys to another Help Center somewhere on Terajuma Island.
+591,FUNNELCAKE,Funnel Cake,A delicious pastry that has the ability to revive fainted Pokemon.
+592,TM102,TM102,The user engulfs their foot with poison and proceeds to knock over their opponent. It may lower Speed.
+593,TM103,TM103,The user proceeds to attack the opponent with quick jabs. The more it's used the more powerful it is.
+594,GREENKEY,Green Key,A key to Madelis' throne room.
+595,YELLOWKEY,Yellow Key,A key to Madelis' throne room.
+596,BLUEKEY,Blue Key,A key to Madelis' throne room.
+597,REDKEY,Red Key,A key to Madelis' throne room.
+598,BLUEMIC,Blue Moon Ice Cream,An extremely rare ice cream from the Reborn region!
+599,ANCIENTBOOK,Ancient Book,A book that is said to have the power to translate ancient Garufa text.
+600,MYSTERYITEM,Mystery Item,An object that is an item-- but also a mystery.
+601,VANILLAIC,Vanilla Ice Cream,A vanilla flavored treat! Eat it before it melts!
+602,CHOCOLATEIC,Choc Ice Cream,A chocolate flavored treat! Eat it before it melts!
+603,STRAWBIC,Berry Ice Cream,A strawberry flavored treat! Eat it before it melts!
+604,BIKEV,Bike Voucher,Redeem this at the Jynnobi Pass bike shop for a free bike!
+605,BRKA,Broken Antenna,A broken interfering signal antenna. The guard named it Philip. RIP Guard.
+606,BRKAR,Refurbished Laser,A broken antenna that was turned into a small laser.
+607,MAGSTONE,Earth Heart,A special scale that has the power to break auras.
+608,TM110,TM110,It engulfs the opponent with a giant wave of magma. It can also be used for crossing lava or magma.
+609,TM104,TM104,The power of this attack move is doubled if the user has been hurt by the target in the same turn.
+610,STOREKEY1,Storage Key1,A key that can be used to open up Storage Unit #1 in Akuwa Town.
+611,POLIFLUTE,Troupe Flute,A flute that can be used to gather the Poliwag Troupe.
+612,XENKEY,V.G.C.R. Key,A key that can unlock a door at the V.G.C.R. underneath Carotos Mountain.
+613,CARDKEYS,Card Key Shard,A piece of a broken card key.
+614,CARDKEYS2,Card Key Shard,A piece of a broken card key.
+615,CARDKEYS3,Card Key Shard,A piece of a broken card key.
+616,TM105,TM105,"The user creates a large wall out of sediment, weakening the power of Super Effective moves for 5 turns. It can only be used in a sandstorm."
+617,TM106,TM106,Does massive damage if the opponent is inflicted with a status.
+618,KKEY,Apartment Key,A key to some apartment in Kugearen City.
+619,TP,Toilet Paper,Toilet Paper... okay?
+620,WEIRDDIARY,Weird Diary,A weird diary that claims to have the answer to Dimensional Rift purification.
+621,ATKCARD,Attack Card,A card that allows the owner to participate in the Attack EV center service.
+622,SPATKCARD,SPAttack Card,A card that allows the owner to participate in the Special Attack EV center service.
+623,DEFCARD,Defense Card,A card that allows the owner to participate in the Defense EV center service.
+624,DATACHIP,Data Drive,A usb filled with mysterious data.
+625,TM107,TM107,The user slashes the target with a massive vine-whip. It may burn the target.
+626,TM108,TM108,"The user pelts the opponent with large amounts of mud, hitting two to five times in a row."
+627,STRAWCAKE,Strawberry Cake,A delicious cake made from strawberries! Restores 150 HP.
+628,ROSETEA,Rose Tea,Delicious tea made from dried rose petals. Restores PP on a single move.
+629,HERBALTEA,Herbal Tea,Tea made from fresh herbs. Fully revives a single Pokemon and increases happiness.
+630,RAZZTART,Razz Berry Tart,A sour pastry made from fresh Razz Berries. Cures status ailments.
+631,SCEPTILITE,Sceptilite,"One variety of Mega Stone. Have Sceptile hold it, and this stone will enable it to Mega Evolve in battle."
+632,LIGHTKEY,Lighthouse Key,A key to the help center in Kristiline Town.
+633,SPDEFCARD,SPDefense Card,A card that allows the owner to participate in the Special Defense EV center service.
+634,GATEKEY,Gate Key,A key that opens a door somewhere in the Darchlight Manor.
+635,STEAMBALL,Steam Ball,A somewhat different Poké Ball that works especially well on Water- and Fire-type Pokémon.
+636,MINERALBALL,Mineral Ball,A somewhat different Poké Ball that works especially well on Rock- Ground- and Steel-type Pokémon.
+637,GATHERCUBE,Gather Cube,A Mysterious Cube that has the power to gather various types of cells.
+638,ANJUPENDANT,Anju's Pendant,A pendant that belongs to a mysterious woman named Anju. It apparently means a lot to her.
+639,SNAGMACHINE,Snag Machine,A machine that allows the user to snag Shadow Pokemon.
+640,SNAGMACHINE1,Snag Machine,Once was a machine that was capable of capturing Shadow Pokemon. Madelis interfered with the device and destroyed it.
+641,APOPHYLLPAN,Apophyll Pancakes,Delicious pancakes imported from Apophyll Academy. They're magically delicious!
+642,NIGHTMED,Nightmare Medallion,A cursed medal that will guarantee the user to experience nightmares while they sleep. 
+643,LABKEY,Lab Key,A key that Professor Matthew found in the Forsaken Laboratory.
+644,STARSHARD1,Star Shard,A star piece that seems to be part of something bigger.
+645,STARSHARD2,Star Shard,A star piece that seems to be part of something bigger. There are two shards here.
+646,STARSHARD3,Star Shard,A star piece that seems to be part of something bigger. There are three shards here.
+647,STARSHARD4,Star Shard,A star piece that seems to be part of something bigger. There are four shards here.
+648,INVITATION,Secret Invitation,An invitation to a secret event! Take it to the Gearen Laboratory!
+649,FAMILYPORTRAIT,Family Portrait,A portait of a family that once lived in Aevium. Their history is unknown.
+650,ULTRAPOTION,Ultra Potion,A spray-type medicine for wounds. It restores the HP of one Pokémon by 200 points.
+651,ADRENALINEORB,Adrenaline Orb,"If held by a Pokémon, it boosts Speed when intimidated. It can be used only once."
+652,BIGMALASADA,Big Malasada,The Alola region’s local specialty—fried bread. It can be used once to heal all the status conditions of a Pokémon.
+653,ICESTONE,Ice Stone, A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern. 
+654,PROTECTIVEPADS,Protective Pads, An item to be held by a Pokémon. These pads protect the holder from effects caused by making direct contact. 
+655,FIREMEMORY,Fire Memory,A memory disc that contains Fire-type data. It changes the type of the holder if held by a certain Pokémon.
+656,WATERMEMORY,Water Memory,A memory disc that contains Water-type data. It changes the type of the holder if held by a certain Pokémon.
+657,ELECTRICMEMORY,Electric Memory,A memory disc that contains Electric-type data. It changes the type of the holder if held by a certain Pokémon.
+658,GRASSMEMORY,Grass Memory,A memory disc that contains Grass-type data. It changes the type of the holder if held by a certain Pokémon.
+659,ICEMEMORY,Ice Memory,A memory disc that contains Ice-type data. It changes the type of the holder if held by a certain Pokémon.
+660,FIGHTINGMEMORY,Fighting Memory,A memory disc that contains Fighting-type data. It changes the type of the holder if held by a certain Pokémon.
+661,POISONMEMORY,Poison Memory,A memory disc that contains Poison-type data. It changes the type of the holder if held by a certain Pokémon.
+662,GROUNDMEMORY,Ground Memory,A memory disc that contains Ground-type data. It changes the type of the holder if held by a certain Pokémon.
+663,FLYINGMEMORY,Flying Memory,A memory disc that contains Flying-type data. It changes the type of the holder if held by a certain Pokémon.
+664,PSYCHICMEMORY,Psychic Memory,A memory disc that contains Psychic-type data. It changes the type of the holder if held by a certain Pokémon.
+665,BUGMEMORY,Bug Memory,A memory disc that contains Bug-type data. It changes the type of the holder if held by a certain Pokémon.
+666,ROCKMEMORY,Rock Memory,A memory disc that contains Rock-type data. It changes the type of the holder if held by a certain Pokémon.
+667,GHOSTMEMORY,Ghost Memory,A memory disc that contains Ghost-type data. It changes the type of the holder if held by a certain Pokémon.
+668,DRAGONMEMORY,Dragon Memory,A memory disc that contains Dragon-type data. It changes the type of the holder if held by a certain Pokémon.
+669,DARKMEMORY,Dark Memory,A memory disc that contains Dark-type data. It changes the type of the holder if held by a certain Pokémon.
+670,STEELMEMORY,Steel Memory,A memory disc that contains Steel-type data. It changes the type of the holder if held by a certain Pokémon.
+671,FAIRYMEMORY,Fairy Memory,A memory disc that contains Fairy-type data. It changes the type of the holder if held by a certain Pokémon.
+672,BEASTBALL,Beast Ball,A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.
+673,REDNECTAR,Red Nectar,A flower nectar imported from Ula'ula Meadow. It changes the form of certain species of Pokémon.
+674,YELLOWNECTAR,Yellow Nectar,A flower nectar imported from Melemele Meadow. It changes the form of certain species of Pokémon.
+675,PINKNECTAR,Pink Nectar,A flower nectar imported from the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon.
+676,PURPLENECTAR,Purple Nectar,A flower nectar imported from Poni Meadow. It changes the form of certain species of Pokémon.
+677,TM111,TM111,This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.
+678,BUGINIUMZ,Buginium-Z,It converts Z-Power into crystals that upgrade Bug-type moves to Bug-type Z-Moves.
+679,DARKINIUMZ,Darkinium-Z,It converts Z-Power into crystals that upgrade Dark-type moves to Dark-type Z-Moves.
+680,DRAGONIUMZ,Dragonium-Z,It converts Z-Power into crystals that upgrade Dragon-type moves to Dragon-type Z-Moves.
+681,ELECTRIUMZ,Electrium-Z,It converts Z-Power into crystals that upgrade Electric-type moves to Electric-type Z-Moves.
+682,FAIRIUMZ,Fairium-Z,It converts Z-Power into crystals that upgrade Fairy-type moves to Fairy-type Z-Moves.
+683,FIGHTINIUMZ,Fightinium-Z,It converts Z-Power into crystals that upgrade Fighting-type moves to Fighting-type Z-Moves.
+684,FIRIUMZ,Firium-Z,It converts Z-Power into crystals that upgrade Fire-type moves to Fire-type Z-Moves.
+685,FLYINIUMZ,Flyinium-Z,It converts Z-Power into crystals that upgrade Flying-type moves to Flying-type Z-Moves.
+686,GHOSTIUMZ,Ghostium-Z,It converts Z-Power into crystals that upgrade Ghost-type moves to Ghost-type Z-Moves.
+687,GRASSIUMZ,Grassium-Z,It converts Z-Power into crystals that upgrade Grass-type moves to Grass-type Z-Moves.
+688,GROUNDIUMZ,Groundium-Z,It converts Z-Power into crystals that upgrade Ground-type moves to Ground-type Z-Moves.
+689,ICIUMZ,Icium-Z,It converts Z-Power into crystals that upgrade Ice-type moves to Ice-type Z-Moves.
+690,NORMALIUMZ,Normalium-Z,It converts Z-Power into crystals that upgrade Normal-type moves to Normal-type Z-Moves.
+691,POISONIUMZ,Poisonium-Z,It converts Z-Power into crystals that upgrade Poison-type moves to Poison-type Z-Moves.
+692,PSYCHIUMZ,Psychium-Z,It converts Z-Power into crystals that upgrade Psychic-type moves to Psychic-type Z-Moves.
+693,ROCKIUMZ,Rockium-Z,It converts Z-Power into crystals that upgrade Rock-type moves to Rock-type Z-Moves.
+694,STEELIUMZ,Steelium-Z,It converts Z-Power into crystals that upgrade Steel-type moves to Steel-type Z-Moves.
+695,WATERIUMZ,Waterium-Z,It converts Z-Power into crystals that upgrade Water-type moves to Water-type Z-Moves.
+696,ALORAICHIUMZ,Aloraichium-Z,It converts Z-Power into crystals that upgrade Alternate Raichu's Thunderbolt to an exclusive Z-Move.
+697,DECIDIUMZ,Decidium-Z,It converts Z-Power into crystals that upgrade Decidueye's Spirit Shackle to an exclusive Z-Move.
+698,INCINIUMZ,Incinium-Z,It converts Z-Power into crystals that upgrade Incineroar's Darkest Lariat to an exclusive Z-Move.
+699,PRIMARIUMZ,Primarium-Z,It converts Z-Power into crystals that upgrade Primarina's Sparkling Aria to an exclusive Z-Move.
+700,EEVIUMZ,Eevium-Z,It converts Z-Power into crystals that upgrade Eevee's Last Resort to an exclusive Z-Move.
+701,PIKANIUMZ,Pikanium-Z,It converts Z-Power into crystals that upgrade Pikachu's Volt Tackle to an exclusive Z-Move.
+702,SNORLIUMZ,Snorlium-Z,It converts Z-Power into crystals that upgrade Snorlax's Giga Impact to an exclusive Z-Move.
+703,MEWNIUMZ,Mewnium-Z,It converts Z-Power into crystals that upgrade Mew's Psychic to an exclusive Z-Move.
+704,TAPUNIUMZ,Tapunium-Z,It converts Z-Power into crystals that upgrade the tapus' Nature's Madness to an exclusive Z-Move.
+705,MARSHADIUMZ,Marshadium-Z,It converts Z-Power into crystals that upgrade Marshadow's Spectral Thief to an exclusive Z-Move.
+706,ELEMENTALSEED,Elemental Seed,A single-use seed that boosts its holder in Elemental Fields.
+707,MAGICALSEED,Magical Seed,A single-use seed that boosts its holder in Magical Fields.
+708,TELLURICSEED,Telluric Seed,A single-use seed that boosts its holder in Telluric Fields.
+709,SYNTHETICSEED,Synthetic Seed,A single-use seed that boosts its holder in Synthetic Fields.
+710,GEARAMULET,Time Gear Amulet,An amulet with a Time Gear on it. Its function is unknown.
+711,GARUFABOOK,Garufa Spellbook,A book that contains a myriad of spells created by the Garufa.
+712,SCANE,Souta's Cane,A mystical cane that Souta owned. It can extend and shorten itself at the base. 
+713,PIDGEOTITE,Pidgeotite,"One variety of Mega Stone. Have Pidgeot hold it, and this stone will enable it to Mega Evolve in battle."
+714,SLOWBRONITE,Slowbronite,"One variety of Mega Stone. Have Slowbro hold it, and this stone will enable it to Mega Evolve in battle."
+715,TM112,TM112,The user stabs the target with a sharp horn. This attack never misses.
+716,TM113,TM113,The user swings its body around violently to inflict damage on everything in its vicinity.
+717,TM114,TM114,The user drains the target's blood. The user's HP is restored by half the damage taken by the target.
+718,MYSTEMBLEM,Mysterious Emblem,A mysterious emblem that depicts an odd shape.
+719,RESEARCHNOTES,Research Notes,A book filled with research notes about the Pokemon Flabebe.
+720,SPUPARCEL,SPU Parcel,A parcel from the broken down SPU truck. Take this to its rightful owner!
+721,DARCHMIRROR,Darchlight Mirror,A mysterious mirror that's said to act as a bridge between dimensions.
+722,DARKMATTER,Dark Material,A fragment of pitch-dark energy.
+723,CURSEDCANDLE,Cursed Candle,A candle that has a dark curse placed upon it. It seems like it was crafted specifically to fit atop a grave.
+724,AUDITIONTAPE,Audition Tape,A tape Melia made to audition for the Normal-Type Gym Leader position. It's apparently very embarrassing.
+725,ACHIEVEMENTCARD,Achievement Card,A card that displays the amount of AP on hand.
+726,GOLDENGAUNTLET,Golden Gauntlet,A golden item that allows for the use of Strength without the use of TMs.
+727,GOLDENAXE,Golden Axe,A golden item that allows for the use of Cut without the use of TMs.
+728,GOLDENHAMMER,Golden Hammer,A golden item that allows for the use of Rock Smash without the use of TMs.
+729,GOLDENSURFBOARD,Golden Surfboard,A golden item that allows for the use of Surf without the use of TMs.
+730,GOLDENSCUBAGEAR,Golden Scuba Gear,A golden item that allows for the use of Dive without the use of TMs.
+731,GOLDENWINGS,Golden Wings,A golden item that allows for the use of Fly without the use of TMs.
+732,GOLDENJETPACK,Golden Jetpack,A golden item that allows for the use of Waterfall without the use of TMs.
+733,GOLDENDRIFTBOARD,Golden Drift Board,A golden item that allows for the use of Magma Drift without the use of TMs.
+734,GOLDENCLAWS,Golden Claws,A golden item that allows for the use of Rock Climb without the use of TMs.
+735,EXPALL,Exp. All (On),Turning off this special device will stop all Pokémon on your team from receiving Exp. Points from battles.
+736,EXPALLOFF,Exp. All (Off),Turning on this special device will allow all Pokémon on your team to receive Exp. Points from battles.
+737,BEEDRILLITE,Beedrillite,"One variety of Mega Stone. Have Beedrill hold it, and this stone will enable it to Mega Evolve in battle."
+738,STEELIXITE,Steelixite,"One variety of Mega Stone. Have Steelix hold it, and this stone will enable it to Mega Evolve in battle."
+739,SWAMPERTITE,Swampertite,"One variety of Mega Stone. Have Swampert hold it, and this stone will enable it to Mega Evolve in battle."
+740,SABLENITE,Sablenite,"One variety of Mega Stone. Have Sableye hold it, and this stone will enable it to Mega Evolve in battle."
+741,SHARPEDONITE,Sharpedonite,"One variety of Mega Stone. Have Sharpedo hold it, and this stone will enable it to Mega Evolve in battle."
+742,CAMERUPTITE,Cameruptite,"One variety of Mega Stone. Have Camerupt hold it, and this stone will enable it to Mega Evolve in battle."
+743,ALTARIANITE,Altarianite,"One variety of Mega Stone. Have Altaria hold it, and this stone will enable it to Mega Evolve in battle."
+744,GLALITITE,Glalitite,"One variety of Mega Stone. Have Glalie hold it, and this stone will enable it to Mega Evolve in battle."
+745,SALAMENCITE,Salamencite,"One variety of Mega Stone. Have Salamence hold it, and this stone will enable it to Mega Evolve in battle."
+746,LATIASITE,Latiasite,"One variety of Mega Stone. Have Latias hold it, and this stone will enable it to Mega Evolve in battle."
+747,LATIOSITE,Latiosite,"One variety of Mega Stone. Have Latios hold it, and this stone will enable it to Mega Evolve in battle."
+748,LOPUNNITE,Lopunnite,"One variety of Mega Stone. Have Lopunny hold it, and this stone will enable it to Mega Evolve in battle."
+749,GALLADITE,Galladite,"One variety of Mega Stone. Have Gallade hold it, and this stone will enable it to Mega Evolve in battle."
+750,AUDINITE,Audinite,"One variety of Mega Stone. Have Audino hold it, and this stone will enable it to Mega Evolve in battle."
+751,DIANCITE,Diancite,"One variety of Mega Stone. Have Diancie hold it, and this stone will enable it to Mega Evolve in battle."
+752,BLACKSHARD2,Black Shard,A mysterious shard that was created by smelting Black Ore.
+753,SCENTEDLURE,Scented Lure,A lure that brings Pokemon out at certain spots.
+754,MAGCREST,Magcargo Crest,It swaps Magcargo's Defense and Speed and increases Sp. Atk by 10%.
+755,FEARCREST,Fearow Crest,Increases the power of stabbing moves by 50%. Increase critical-hit ratio by 1.
+756,STANTCREST,Stantler Crest,It increases Stantler's and Wyrdeer's Attack and Accuracy by 50%.
+757,HYPCREST,Hypno Crest,It increases Hypno's Special Attack and Accuracy by 50%.
+758,GLACCREST,Glaceon Crest,It takes resisted damage from Rock and Fighting attacks.
+759,LEAFCREST,Leafeon Crest,It takes resisted damage from Fire and Flying attacks.
+760,RELICREST,Relicanth Crest,It increases Relicanth's Attack by 20% and Sp. Def by 30%.
+761,ORICREST,Oricorio Crest,It increases Oricorio's Speed and Sp. Atk stat by 25%.
+762,SILVCREST,Silvally Crest,Has a special effect for each held Memory and boosts that type's attacks.
+763,SEVCREST,Seviper Crest,It causes Seviper to hit harder against healthier foes. Speed increased by 50%.
+764,COFCREST,Cofagrigus Crest,It increases Cofagrigus's Sp. Def and Sp. Atk by 25%.
+765,DUSKCREST,Dusknoir Crest,It increases Dusknoir's Attack by 20% and boosts weaker moves.
+766,BADGECARD,Badge Card,A card that holds every virtual badge earned.
+767,PULSEPLUS,Pulse+,???.
+768,AQUAMARINEORE,Aquamarine Ore,Rare ore found within Aquamarine Cave.
+769,TECANLITEKEY,Tecanlite Key,A key to a room in the Tecanlite Factory.
+770,NSOLARIZER,N-Solarizer,This item is used to fuse Necrozma and Solgaleo to create Dusk Mane Necrozma.
+771,NLUNARIZER,N-Lunarizer,This item is used to fuse Necrozma and Lunala to create Dawn Wings Necrozma.
+772,KOMMONIUMZ,Kommonium-Z,It converts Z-Power into crystals that upgrade Kommo-o's Clanging Scales to an exclusive Z-Move.
+773,LYCANIUMZ,Lycanium-Z,It converts Z-Power into crystals that upgrade Lycanroc's Stone Edge to an exclusive Z-Move.
+774,MIMIKIUMZ,Mimikium-Z,It converts Z-Power into crystals that upgrade Mimikyu's Play Rough to an exclusive Z-Move.
+775,SOLGANIUMZ,Solganium-Z,It converts Z-Power into crystals that upgrade Solgaleo's Sunsteel Strike to an exclusive Z-Move.
+776,LUNALIUMZ,Lunalium-Z,It converts Z-Power into crystals that upgrade Lunala's Moongeist Beam to an exclusive Z-Move.
+777,ULTRANECROZIUMZ,Ultranecrozium-Z,It's a crystal that allows Necrozma fused with another pokemon to change forme.
+778,BLASTPOWDER,Blast Powder,A powder made from Electrode. Explodes to break up certain rock formations.
+779,AMPLIFIELDROCK,Amplifield Rock,A Pokémon held item that extends the duration of the area-altering moves used by the holder.
+780,RIFTSEED,Rift Seed,A single-use seed that boosts its holder in Telluric Fields.
+781,MYSTBLACKBOX,Mysterious Black Box,A mysterious black box that belonged to Nancy. It gives off a faint pink glow.
+782,HOUSEKEY,House Key,A key to the strange house south of Sashila Village. It's really rusty.
+783,REFORGEDKEY,Reforged Key,A key to the strange house south of Sashila Village. It's brand new!
+784,GREGPOSTCARD,Lake Postcard,A postcard with a lovely picture of Gregorian Lake on it.
+785,SKUNCREST,Skuntank Crest,Nullifies damage and boosts Attack when hit by a Ground-type move. Increases Attack and Sp. Atk by 20%.
+786,TRANSMITTER,Transmitter,A transmitter given to you by Nastasia. It can be used to speak to Ren or Aelita.
+787,ZONEZEROKEY,Zone Zero Key,A key to open the gate to Zone Zero from Alamissa Urben.
+788,DARMCREST,Darmanitan Crest,Darmanitan is forced into Zen Mode while holding this crest.
+789,CHERCREST,Cherrim Crest,It forces Cherrim into its Sunshine Form and activates Flower Gift regardless of weather.
+790,CLAYCREST,Claydol Crest,Claydol's Special attacks use its Defense stat. The power of beam moves is increased by 50%.
+791,DEDECREST,Dedenne Crest,Dedenne's Physical attacks use its Speed stat rather than its Attack stat.
+792,ZANGCREST,Zangoose Crest,"Zangoose becomes poisoned upon switching in, and restores HP while poisoned."
+793,BASTCREST,Bastiodon Crest,"Attackers take 50% of the damage they deal as recoil, and the wearer is healed the same amount."
+794,MEGCREST,Meganium Crest,Meganium and its allies take reduced damage and recover every turn.
+795,TYPHCREST,Typhlosion Crest,"Typhlosion's Attack scales with Sp. Atk, and contact moves do an additional hit of damage."
+796,FERACREST,Feraligatr Crest,First move has increased priority if it's damaging. Biting moves deal 50% more damage.
+797,RAMPCREST,Rampardos Crest,Rampardos will hang on with 1HP regardless of HP once per battle and does not take recoil.
+798,LEDICREST,Ledian Crest,Ledian punches four times at once. Secondary effects only occur on the first two hits.
+799,ARIACREST,Ariados Crest,Ariados's speed is increase by 50%. Deals critical hits against slowed or poisoned targets.
+800,SPIRITCREST,Spiritomb Crest,Spiritomb becomes stronger for each defeated ally. Recovers health based on KO'd enemies.
+801,WHISCREST,Whiscash Crest,Nullifies damage and boosts Attack when hit by a Grass-type move. Increase Atk and Sp. Atk by 20%
+802,ENIGMATICKEY,Enigmatic Key,A key that was previously the Normality Badge. The Normality Badge's true form.
+803,BEHECREST,Beheeyem Crest,Beheyeem disables an opponent's move when attacked. Faster opponents do reduced damage to Beheeyem.
+804,TORCREST,Torterra Crest,"Torterra's resistances and weaknesses are swapped, retaining immunities. Attacks restore HP."
+805,INFCREST,Infernape Crest,Infernape's Attacking and Defensive stats are swapped. 1/16th Max HP is restored every turn.
+806,EMPCREST,Empoleon Crest,"Empoleon's Ice-type moves are boosted by 50%, and Speed is doubled in Hail and on Ice Fields."
+807,MAGWAND,Magic Wand,A stick Braixen used to use for her attacks.
+808,DARKCORE,Dark Matter Core,A core filled to the brim with Dark Matter.
+809,RM01,RM01,The user sharpens its claws to boost its Attack stat and accuracy.
+810,RM02,RM02,This move deals double damage if the user is hurt by the target that turn.
+811,RM03,RM03,The user fires an electric blast like a cannon to inflict damage and cause paralysis.
+812,RM04,RM04,The user waggles a finger and stimulates its brain into randomly using nearly any move.
+813,RM05,RM05,This move attacks first. It fails if the target is not attacking.
+814,RM06,RM06,The user avenges an ally. If an ally fainted the prior turn the damage increases.
+815,RM07,RM07,The user punches the target with full power. It confuses the target if it hits.
+816,RM08,RM08,The user whirls its fists to send out a wave of pure vacuum. This move always goes first.
+817,CRYCREST,Cryogonal Crest,"Increases Cryogonal's Sp. Def by 20%, then increases its other stats by 10% of its Sp. Def."
+818,CASTCREST,Castform Crest,Castform uses the first weather move it knows. Its Forecast forms also become empowered.
+819,RM09,RM09,The user strikes with a simultaneous three-beam attack. May also burn or freeze or paralyze the target.
+820,TARTAPPLE,Tart Apple,A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart.
+821,SWEETAPPLE,Sweet Apple,A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally Sweet.
+822,CHIPPEDPOT,Chipped Pot,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be chipped, but tea poured from it is delicious."
+823,CRACKEDPOT,Cracked Pot,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious."
+824,RUSTEDSWORD,Rusted Sword,It is said that a hero used this sword to halt a terrible disaster in ancient times. It's grown rusty and worn.
+825,RUSTEDSHIELD,Rusted Shield,It is said that a hero used this shield to halt a terrible disaster in ancient times. It's grown rusty and worn.
+826,FOSSILIZEDBIRD,Fossilized Bird,The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery.
+827,FOSSILIZEDDINO,Fossilized Dino,The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
+828,FOSSILIZEDDRAKE,Fossilized Drake,The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.
+829,FOSSILIZEDFISH,Fossilized Fish,The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
+830,THROATSPRAY,Throat Spray,"This item, when held, causes a Pokémon's Special Attack stat to be raised by one stage when it uses a Sound based move"
+831,EJECTPACK,Eject Pack,"An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle."
+832,HEAVYDUTYBOOTS,Heavy-Duty Boots,These boots prevent the effects of traps set on the battlefield.
+833,BLUNDERPOLICY,Blunder Policy,Raises Speed sharply when a Pokémon misses with a move because of accuracy.
+834,ROOMSERVICE,Room Service,An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.
+835,UTILITYUMBRELLA,Utility Umbrella,An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of weather.
+836,EXPCANDYXS,Exp. Candy XS,"A candy that is packed with energy. When consumed, it will grant a Pokémon a very small amount of Exp. Points."
+837,EXPCANDYS,Exp. Candy S,"A candy that is packed with energy. When consumed, it will grant a Pokémon a small amount of Exp. Points."
+838,EXPCANDYM,Exp. Candy M,"A candy that is packed with energy. When consumed, it will grant a Pokémon a moderate amount of Exp. Points."
+839,EXPCANDYL,Exp. Candy L,"A candy that is packed with energy. When consumed, it will grant a Pokémon a large amount of Exp. Points."
+840,EXPCANDYXL,Exp. Candy XL,"A candy that is packed with energy. When consumed, it will grant a Pokémon a very large amount of Exp. Points."
+841,ADAMANTMINT,Adamant Mint,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly."
+842,LONELYMINT,Lonely Mint,"When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly."
+843,NAUGHTYMINT,Naughty Mint,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Def will grow more slowly."
+844,BRAVEMINT,Brave Mint,"When a Pokémon smells this mint, its Attack will grow more easily, but its Speed will grow more slowly."
+845,BOLDMINT,Bold Mint,"When a Pokémon smells this mint, its Defense will grow more easily, but its Attack will grow more slowly."
+846,IMPISHMINT,Impish Mint,"When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Att will grow more slowly."
+847,LAXMINT,Lax Mint,"When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Def will grow more slowly."
+848,RELAXEDMINT,Relaxed Mint,"When a Pokémon smells this mint, its Defense will grow more easily, but its Speed will grow more slowly."
+849,MODESTMINT,Modest Mint,"When a Pokémon smells this mint, its Sp. Attack will grow more easily, but its Attack will grow more slowly."
+850,MILDMINT,Mild Mint,"When a Pokémon smells this mint, its Sp. Attack will grow more easily, but its Defense will grow more slowly."
+851,RASHMINT,Rash Mint,"When a Pokémon smells this mint, its Sp. Attack will grow more easily, but its Sp. Def will grow more slowly."
+852,QUIETMINT,Quiet Mint,"When a Pokémon smells this mint, its Sp. Attack will grow more easily, but its Speed will grow more slowly."
+853,CALMMINT,Calm Mint,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Attack will grow more slowly."
+854,GENTLEMINT,Gentle Mint,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Defense will grow more slowly."
+855,CAREFULMINT,Careful Mint,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Sp. Attack will grow more slowly."
+856,SASSYMINT,Sassy Mint,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Speed will grow more slowly."
+857,TIMIDMINT,Timid Mint,"When a Pokémon smells this mint, its Speed will grow more easily, but its Attack will grow more slowly."
+858,HASTYMINT,Hasty Mint,"When a Pokémon smells this mint, its Speed will grow more easily, but its Defense will grow more slowly."
+859,JOLLYMINT,Jolly Mint,"When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Att will grow more slowly."
+860,NAIVEMINT,Naive Mint,"When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Def will grow more slowly."
+861,SERIOUSMINT,Serious Mint,"When a Pokémon smells this mint, all of its stats will grow at an equal rate."
+862,RIFTFRAGMENT,Rift Fragment,Throw one into a Pokémon Den to attract a wild Rift Pokémon.
+863,CATCHINGCHARM,Catching Charm,"Holding it is said to increase the chance of getting a critical capture. Curiously, the charm doesn't shake much."
+864,DUNGEONKEY,Dungeon Key,A key to open doors in various dungeons
+865,DREAMBALL,Dream Ball,A somewhat different Poké Ball that works especially well on sleeping Pokémon.
+866,PECHABERRY2,Pecha Berry?,A special 'Pecha Berry' given to you by the employee at The Berry Emporium.
+867,ROTOMPHONE,Rotom Phone,A smartphone that was enhanced with a Rotom!
+868,CONCERTTCK,Concert Tickets,Tickets to Amber's concert! These are VIP too!
+869,AMBERSLET,Amber's Letter,"A handwritten letter by Amber. Only you can read this, but Amber doesn't want you to just yet."
+870,TM115,TM115,The target is slugged by a punch thrown with muscle-packed power.
+871,TM116,TM116,The target is attacked by a kick launched with muscle-packed power.
+872,TM117,TM117,Numerous coins are hurled at the target to inflict damage. Money is earned after the battle.
+873,TM118,TM118,Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.
+874,TM119,TM119,The user scatters curious leaves that chase the target. This attack never misses.
+875,TM120,TM120,"In this two-turn attack the user gathers light, and fills a blade with the light's energy, attacking the target on the next turn."
+876,TM121,TM121,The target becomes trapped within a fierce vortex of fire that rages for four to five turns.
+877,TM122,TM122,An earsplitting screech harshly lowers the target's Defense stat.
+878,TM123,TM123,The user attacks everything around it by causing an explosion. The user faints upon using this move.
+879,TM124,TM124,The user frightens the target with a scary face to harshly lower its Speed stat.
+880,TM125,TM125,"The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat."
+881,TM126,TM126,The user traps the target in a violent swirling whirlpool for four to five turns.
+882,TM127,TM127,"The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks."
+883,TM128,TM128,This attack move varies in power and type depending on the weather.
+884,TM129,TM129,"The user feigns crying to fluster the target, harshly lowering its Sp. Def stat."
+885,TM130,TM130,The user traps the target inside a harshly raging sandstorm for four to five turns.
+886,TM131,TM131,The user forcefully shoots seeds at the target two to five times in a row.
+887,TM132,TM132,The user launches sharp icicles at the target two to five times in a row
+888,TM133,TM133,The user attacks by hurling a blob of mud at the target. This also lowers the target's Speed stat.
+889,TM134,TM134,The user hurls hard rocks at the target. Two to five rocks are launched in a row.
+890,TM135,TM135,"If the target's HP is half or less, this attack will hit with double the power."
+891,TM136,TM136,"If the target has already taken some damage in the same turn, this attack's power is doubled"
+892,TM137,TM137,The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target.
+893,TM138,TM138,The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target.
+894,TM139,TM139,The user employs its psychic power to switch changes to its Speed stat with the target.
+895,TM140,TM140,The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.
+896,TM141,TM141,The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.
+897,TM142,TM142,The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.
+898,TM143,TM143,The user tears at the target with blades formed by psychic power. Critical hits land more easily.
+899,TM144,TM144,A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.
+900,TM145,TM145,This relentless attack does massive damage to a target affected by status conditions.
+901,TM146,TM146,The user cuts its target with sharp shells. This may also lower the target's Defense stat.
+902,TM147,TM147,The user attacks by striking the target with its hard tail. It hits the target two to five times in a row.
+903,TM148,TM148,"The user vanishes somewhere, then strikes the target on the next turn. This move ignores protection moves."
+904,TM149,TM149,The user steals the target's HP with a kiss. The user's HP is restored by over half of the damage taken by the target.
+905,TM150,TM150,The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves.
+906,TM151,TM151,"The user electrifies the ground for five turns, powering up Electric-type moves. Pokémon on the ground no longer fall asleep."
+907,TM152,TM152,This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.
+908,TM153,TM153,This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.
+909,TM154,TM154,"The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat."
+910,TM155,TM155,The user's body generates an eerie impulse. Exposing the target to it harshly lowers the target's Sp. Atk stat.
+911,TM156,TM156,The user attacks with a blade of air that slices even the sky. This may also make the target flinch.
+912,TM157,TM157,The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats.
+913,CHARIZARDITEG,Charizardite G,"One variety of Mega Stone. Have Charizard hold it, and this stone will enable it to Mega Evolve in battle."
+914,BUTTERFREENITE,Butterfreenite,"One variety of Mega Stone. Have Butterfree hold it, and this stone will enable it to Mega Evolve in battle."
+915,PIKACHUTITE,Pikachutite,"One variety of Mega Stone. Have Pikachu hold it, and this stone will enable it to Mega Evolve in battle."
+916,MEOWTHITE,Meowthite,"One variety of Mega Stone. Have Meowth hold it, and this stone will enable it to Mega Evolve in battle."
+917,MACHAMPITE,Machampite,"One variety of Mega Stone. Have Machamp hold it, and this stone will enable it to Mega Evolve in battle."
+918,GENGARITEG,Gengarite G,"One variety of Mega Stone. Have Gengar hold it, and this stone will enable it to Mega Evolve in battle."
+919,KINGLERITE,Kinglerite,"One variety of Mega Stone. Have Kingler hold it, and this stone will enable it to Mega Evolve in battle."
+920,LAPRASITE,Laprasite,"One variety of Mega Stone. Have Lapras hold it, and this stone will enable it to Mega Evolve in battle."
+921,EEVEETITE,Eeveetite,"One variety of Mega Stone. Have Eevee hold it, and this stone will enable it to Mega Evolve in battle."
+922,SNORLAXITE,Snorlaxite,"One variety of Mega Stone. Have Snorlax hold it, and this stone will enable it to Mega Evolve in battle."
+923,GARBODORNITE,Garbodornite,"One variety of Mega Stone. Have Garbodor hold it, and this stone will enable it to Mega Evolve in battle."
+924,MELMETALITE,Melmetalite,"One variety of Mega Stone. Have Melmetal hold it, and this stone will enable it to Mega Evolve in battle."
+925,CORVIKNITE,Corviknite,"One variety of Mega Stone. Have Corviknight hold it, and this stone will enable it to Mega Evolve in battle."
+926,ORBEETLENITE,Orbeetlenite,"One variety of Mega Stone. Have Orbeetle hold it, and this stone will enable it to Mega Evolve in battle."
+927,DREDNAWTITE,Drednawtite,"One variety of Mega Stone. Have Drednaw hold it, and this stone will enable it to Mega Evolve in battle."
+928,COALOSSALITE,Coalossalite,"One variety of Mega Stone. Have Coalossal hold it, and this stone will enable it to Mega Evolve in battle."
+929,FLAPPLETITE,Flappletite,"One variety of Mega Stone. Have Flapple hold it, and this stone will enable it to Mega Evolve in battle."
+930,APPLETUNITE,Appletunite,"One variety of Mega Stone. Have Appletun hold it, and this stone will enable it to Mega Evolve in battle."
+931,SANDACONDITE,Sandacondite,"One variety of Mega Stone. Have Sandaconda hold it, and this stone will enable it to Mega Evolve in battle."
+932,TOXTRICITITE,Toxtricitite,"One variety of Mega Stone. Have Toxtricity hold it, and this stone will enable it to Mega Evolve in battle."
+933,CENTISKORCHITE,Centiskorchite,"One variety of Mega Stone. Have Centiskorch hold it, and this stone will enable it to Mega Evolve in battle."
+934,HATTERENITE,Hatterenite,"One variety of Mega Stone. Have Hatterene hold it, and this stone will enable it to Mega Evolve in battle."
+935,GRIMMSNARLITE,Grimmsnarlite,"One variety of Mega Stone. Have Grimmsnarl hold it, and this stone will enable it to Mega Evolve in battle."
+936,ALCREMITE,Alcremite,"One variety of Mega Stone. Have Alcremie hold it, and this stone will enable it to Mega Evolve in battle."
+937,COPPERAJITE,Copperajite,"One variety of Mega Stone. Have Copperajah hold it, and this stone will enable it to Mega Evolve in battle."
+938,DURALUDONITE,Duraludonite,"One variety of Mega Stone. Have Duraludon hold it, and this stone will enable it to Mega Evolve in battle."
+939,VENUSAURITEG,Venusaurite G,"One variety of Mega Stone. Have Venusaur hold it, and this stone will enable it to Mega Evolve in battle."
+940,BLASTOISINITEG,Blastoisinite G,"One variety of Mega Stone. Have Blastoise hold it, and this stone will enable it to Mega Evolve in battle."
+941,RILLABOOMITE,Rillaboomite,"One variety of Mega Stone. Have Rillaboom hold it, and this stone will enable it to Mega Evolve in battle."
+942,CINDERACITE,Cinderacite,"One variety of Mega Stone. Have Cinderace hold it, and this stone will enable it to Mega Evolve in battle."
+943,INTELEONITE,Inteleonite,"One variety of Mega Stone. Have Inteleon hold it, and this stone will enable it to Mega Evolve in battle."
+944,PHANTOMCANDYS,Phantom Candy S,Candy that was made by The Puppet Master. It will level up your Pokemon a small amount.
+945,PHANTOMCANDYM,Phantom Candy M,Candy that was made by The Puppet Master. It will level up your Pokemon an average amount.
+946,MYSTBLACKBOX2,Mysterious Black Box,A mysterious black box. It does nothing.
+947,HPCARD,HP Card,A card that allows the owner to participate in the HP EV center service.
+948,SPEEDCARD,Speed Card,A card that allows the owner to participate in the Speed EV center service.
+949,THIEVCREST,Thievul Crest,"Decreases opponent's Sp. Atk by one stage, increasing Thievul's by one stage on switch."
+950,PROBOCREST,Probopass Crest,Levitates. Mini-noses do 3-hit 20BP type-based damage after a damaging move.
+951,DRUDDICREST,Druddigon Crest,Heals in the sun and from Fire moves. Fire and Dragon moves get boosted by 30%.
+952,CINCCREST,Cinccino Crest,All moves turn into multi-hit moves (2-5 hits at 30% the BP).
+953,NOCCREST,Noctowl Crest,Increases Special Defense upon being hit. Increases Defense by 20%.
+954,LUXCREST,Luxray Crest,Gains Dark-type STAB and resistances. Normal-type moves are Galvanized.
+955,BOLTCREST,Boltund Crest,Gain a 1.5x boost to biting moves if Boltund moves before target.
+956,VESPICREST,Vespiquen Crest,Attack Order and Defense Order grant a 50% boost to Offenses or Defenses that switch around when the other is used.
+957,PHIONECREST,Phione Crest,Phione is granted a 50% increase in defenses and Aqua Ring.
+958,DELCREST,Delcatty Crest,The power of its non-KO'd friends increases Delcatty's stats by 10% each.
+959,SWACREST,Swalot Crest,Stockpiles gained after an attack. Belch always usable and followed by Spit Up.
+960,INTERCEPTZ,Interceptium-Z,Unleash the power of the Interceptor with special Z-Moves and change fate!
+961,MASTERKEY,Master Key,A key to open boss doors in various dungeons.
+962,FAIRYGEM,Fairy Gem,"A gem with a mystical essence. When held, it strengthens the power of a Fairy-type move only once."
+963,SAMUCREST,Samurott Crest,Gains Fighting-type STAB and resistances. Slicing moves always result in critical hit.
+964,SKYRELIC,Sky Relic,A Relic that is imbued with the power of the sky.
+965,XENWASTE,Xen Waste,Industrial waste created during Team Xen's experiments. It seems to cause Pokemon to mutate...
+966,NIGHTMAREFUEL,Nightmare Fuel,Excess waste from the Ligosomnia Engine. It seems to cause Pokemon to mutate...
+967,INTERCEPTORWISH,Interceptor's Wish,An item that allows the Interceptor to scatter their strength to aid others.
+968,INTERCEPTZ2,Interceptium-Z (old),It converts Z-Power into crystals that allow one to intercept fate!
+969,STATSWAPPER,Stat Swapper,Swaps the effort values between two selected stats.
+970,BLKPRISM,Black Prism,A weird prism filled with strange power. Touching it gives a tingling sensation.
+971,GALARICACUFF,Galarica Cuff,A cuff made from woven-together Galarica Twigs. Giving it to Galarian Slowpoke makes the Pokémon very happy.
+972,GALARICAWREATH,Galarica Wreath,A wreath made from woven-together Galarica Twigs. Placing it on the head of a Galarian Slowpoke makes the Pokémon very happy.
+973,REINSOFUNITY,Reins of Unity,Reins that people presented to the king. They enhance Calyrex’s power over bountiful harvests and unite Calyrex with its beloved steed.
+974,BELLMCHN,Bell Machine,A machine used for the maintenance of bells.
+975,TRAINPASS,Train Pass,A pass that allows for cheaper travel on trains in Grand Dream City.
+976,JYNNOBIKEY,Lighthouse Key-J,A key that opens up the lighthouse located in Jynnobi Pass.
+977,GLITTERBALL,Glitter Ball,"A special Poké Ball that excels at catching shiny Pokémon, or turns a Pokémon shiny on catch."
+978,REDORB,Red Orb,A shiny red orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn Region.
+979,BLUEORB,Blue Orb,A shiny blue orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn Region.
+980,MAGNETICLURE,Magnetic Lure,"An item to be held. One polarity draws in uncaught species, while the other pushes them away for quick escape."
+981,HPRESETBAG,Reset Disc- HP,A reusable special program that causes the Pokémon to forget its training in the HP stat.
+982,ATKRESETBAG,Reset Disc- ATK,A reusable special program that causes the Pokémon to forget its training in the Attack stat.
+983,DEFRESETBAG,Reset Disc- DEF,A reusable special program that causes the Pokémon to forget its training in the Defense stat.
+984,SPARESETBAG,Reset Disc- SPATK,A reusable special program that causes the Pokémon to forget its training in the Sp. Atk stat.
+985,SPDRESETBAG,Reset Disc- SPDEF,A reusable special program that causes the Pokémon to forget its training in the Sp. Def stat.
+986,SPERESETBAG,Reset Disc- SPEED,A reusable special program that causes the Pokémon to forget its training in the Speed stat.
+987,FULLRESETBAG,Reset Disc- ALL,A reusable special program that causes the Pokémon to forget its training in all stats.
+988,EVBOOSTER,EV Booster,A super vitamin shot that immediately charges one stat with 252 EVs. Still in clinical trials.
+989,PPALL,PP All,A medicine that can optimally raise the maximum PP of all moves known by the target Pokémon.
+990,EVTUNER,EV Tuner,A single-use device that switches a Pokémon's EV totals between two stats.
+991,PRISONBOTTLE,Prison Bottle,"A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago."
+992,PEATBLOCK,Peat Block,A block of muddy material that can be used as fuel for burning when it is dried. It’s loved by a certain Pokémon.
+993,BLACKAUGURITE,Black Augurite,A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.
+994,PUPPETCOIN,Puppet Doubloon,A coin with the Puppet Master's true face on it. Its use is unknown.
+995,STABILIZER,Stabilizer,A device that can stabilize a various amount of elements.
+996,BLKAPRICORN,Black Apricorn,A black Apricorn. It has a scent beyond one's experience.
+997,GOOCIBAG,Goocci Bag,Karrina's bag. Only a memory now.
+998,ROBOCLOAK,Robo Ren's Cloak,A piece of Robo Ren's Sashilan Cloak.
+999,CRACKEDPEARL,Pearl Core,Spacea's Orb. Only a memory now.
+1000,CRACKEDDIAMOND,Diamond Core,Tiempa's Diamond. Only a memory now.
+1001,REDGEM,Red Gem,A mysterious red gem.
+1002,REUNICREST,Reuniclus Crest,Using Fighting- or Psychic-type moves swaps between respective types. Swaps attacking stats while Fighting-type.
+1003,ANCIENTTEACH,Ancient Teachings,"An ancient book that has specific teachings about swordsmanship, archery, and necromancy."
+1004,ELECCREST,Electrode Crest,The target's Defense stat is halved when Electrode is attacking.
+1005,CRABCREST,Crabom. Crest,Powers up moves by 50% if holder takes damage before using them. Defenses raised by 20%.
+1006,SEARCREST,Simisear Crest,Gains Water-type STAB and resistances. Normal-type moves become Water-type. Offenses boosted by 20%.
+1007,POURCREST,Simipour Crest,Gains Grass-type STAB and resistances. Normal-type moves become Grass-type. Offenses boosted by 20%.
+1008,SAGECREST,Simisage Crest,Gains Fire-type STAB and resistances. Normal-type moves become Fire-type. Offenses boosted by 20%.
+1009,SAWSCREST,Sawsbuck Crest,Replace's Normal-type with seasonal type. Normal-type moves become seasonal type and are boosted by 20%.
+1010,SHIINCREST,Shiinotic Crest,Drains 1/16th of Max HP from statused pokemon at end of turn. Draining effect recovery is boosted by 30%.
+1011,AEAMPHCREST,A. Ampharos Crest,"Move in first moveslot is boosted by 50%, 20% if STAB. Take 30% less damage from Super Effective moves."
+1012,LUVCREST,Luvdisc Crest,"The Base Power of all damaging moves matches Luvdisc's happiness, capping at a Base Power of 250."
+1013,GIFTCARD,Thank-You Card,A signed card gifted by the PokeStar Studio crew as thanks for your help with the Xenogene movie.
+1014,HDISK,H-Disk,A disk that can be used to activate the lift at The Underground.
+1015,URSHIFITE,Urshifite,"One variety of Mega Stone. Have Urshifu hold it, and this stone will enable it to Mega Evolve in battle."
+1016,ZOROCREST,Zoroark Crest,Grants the ability of the copied Pokemon to Unovan Zoroark. Additionally gives them STAB on that Pokemon's typing.
+1017,CELLIMPRINT,Cell Imprint,Extracted data from a mysterious cell. Using it can increase a Pokemon's natural potential.
+1018,LUMINOUSMOSS,Luminous Moss, It boosts Sp. Def if hit with a Water-type attack. It can only be used once.
+1019,UNOWNCREST,Unown Crest,Filler text.
+1020,GLITCHMEMORY,??? Memory,A memory disc that contains ???-type data. It changes the type of the holder if held by a certain Pokémon.
+1021,GOLDENLANTERN,Golden Lantern,A golden item that allows for the use of Flash without the use of TMs.
+1022,REMOTEPC,Remote PC,Allows remote connection to the storage system. Requires and consumes one Cell Battery per use.
+1023,PINKPETAL,Pink Petal,A petal cultivated from GDC's Botanical Garden. It changes the form of certain species of Pokémon.
+1024,GREENPETAL,Green Petal,A petal cultivated from GDC's Botanical Garden. It changes the form of certain species of Pokémon.
+1025,ORANGEPETAL,Orange Petal,A petal cultivated from GDC's Botanical Garden. It changes the form of certain species of Pokémon.
+1026,BLUEPETAL,Blue Petal,A petal cultivated from GDC's Botanical Garden. It changes the form of certain species of Pokémon.
+1027,MIRRORLURE,Mirror Lure,"An item to be held. One polarity draws in identical species to the holder, while the other allows for quick escape."
+1028,PUZZLEBOX,Puzzle Box,A dusty puzzle box found in Flora's room. It seems to have been manufactured by the Weather Institute.
+1029,PUMPKIN,Pumpkin,A nicely sized pumpkin wrassled from an angry Gourgeist.
+1030,TALONSGLOVE,Talon's Glove,Talon's Glove. A symbol of his insecurity. Only a memory now.
+1031,FLORINSID,Florin's ID,Florin's Gov. ID. Only a memory now.
+1032,FURRCREST,Furret Crest,"Upon switching in, Furret loses 25% of its Max HP to create a substitute."
+1033,HM01,HM01,The target is cut with a scythe or claw. It can also be used to cut down thin trees.
+1034,HM02,HM02,"The user soars, then strikes on the second turn. It can also be used to fly to any familiar town."
+1035,HM03,HM03,It swamps the area around the user with a giant wave. It can also be used for crossing water.
+1036,HM04,HM04,The target is slugged with a punch thrown at maximum power. This move can also be used to move boulders.
+1037,HM05,HM05,The user charges the target at an awesome speed. It can also be used to climb a waterfall.
+1038,HM06,HM06,"Diving on the first turn, the user floats up and attacks on the second. It can be used for diving in the ocean."

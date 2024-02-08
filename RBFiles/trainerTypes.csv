@@ -1,0 +1,264 @@
+,Code,Title,Image,Money
+0,CHILDOFLIGHT,Child of Light,Childoflight_TS.png,30
+1,TRAINER_AEVIS,Pokémon Trainer,TrainerAevis_TS.png,15
+2,TRAINER_AEVIA,Pokémon Trainer,TrainerAevia_TS.png,15
+3,TRAINER_ARIA,Pokémon Trainer,TrainerAria_TS.png,15
+4,TRAINER_AXEL,Pokémon Trainer,TrainerAxel_TS.png,14
+5,TRAINER_ALAIN,Pokémon Trainer,TrainerAlain_TS.png,14
+6,TRAINER_AERO,Pokémon Trainer,TrainerAero_TS.png,15
+7,TRAINER_ANA,Pokémon Trainer,TrainerAna_TS.png,30
+8,TRAINER_REN,Pokémon Trainer,TrainerRen_TS.png,7
+9,TRAINER_MELIA1,Pre-Leader,TrainerMelia1_TS.png,7
+10,TRAINER_AMANDA,League Scout,TrainerAmanda_TS.png,7
+11,OPT,Optimist,Opt_TS.png,6
+12,AROMALADY,Fragrant Lady,Aromalady_TS.png,11
+13,BEAUTY,Prima Donna,Beauty_TS.png,8
+14,COOLGUY,Cool Guy,Coolguy_TS.png,9
+15,CHANELLER,Old Lady,Chaneller_TS.png,13
+16,CUEBALL,Gang Member,Cueball_TS.png,5
+17,TECH,Technician,Tech_TS.png,10
+18,BUGCATCHER,Bug Catcher,Bugcatcher_TS.png,2
+19,FISHERMAN,Fisherman,Fisherman_TS.png,6
+20,CHARMER,Charmer,Charmer_TS.png,9
+21,HIKER,Hiker,Hiker_TS.png,9
+22,LADY,Mistress,Lady_TS.png,16
+23,ROCKER,Punk,Rocker_TS.png,6
+24,YOUNGSTER,Youngster,Youngster_TS.png,6
+25,POKEBREEDER_F,Pokémon Caretaker,PokebreederF_TS.png,30
+26,POKEBREEDER_M,Pokémon Caretaker,PokebreederM_TS.png,30
+27,BLACKBELT,Battle Boy,Blackbelt_TS.png,7
+28,COOLTRAINER_M,Hardcore Trainer,CooltrainerM_TS.png,10
+29,COOLTRAINER_F,Hardcore Trainer,CooltrainerF_TS.png,10
+30,KIMONOGIRL,Yukata Girl,Kimonogirl_TS.png,12
+31,KIMONOGIRL2,Kimono Girl,Kimonogirl2_TS.png,14
+32,GUITARIST,Guitarist,Guitarist_TS.png,4
+33,WORKERF,Clerk,Workerf_TS.png,15
+34,WORKERM,Clerk,Workerm_TS.png,15
+35,OFFICER,Police Officer,Officer_TS.png,15
+36,SCIENTIST,Scientist,Scientist_TS.png,16
+37,LASS,Enthusiast,Lass_TS.png,9
+38,POKEMONRANGER_M,Pokémon Ranger,PokemonrangerM_TS.png,11
+39,POKEMONRANGER_F,Pokémon Ranger,PokemonrangerF_TS.png,11
+40,CRUSHGIRL,Battle Girl,Crushgirl_TS.png,14
+41,CAMPER,Schoolboy,Camper_TS.png,5
+42,PICNICKER,Schoolgirl,Picnicker_TS.png,5
+43,FAIRYGIRL,Fairy Girl,Fairygirl_TS.png,6
+44,TOURIST,Tourist,Tourist_TS.png,21
+45,XENANALYST_M,Xen Analyst,XenanalystM_TS.png,4
+46,COOLCOUPLE1,Cool Couple,Coolcouple1_TS.png,16
+47,DESERTDWELLER_MW,Desert Dweller,DesertdwellerMw_TS.png,1
+48,DESERTDWELLER_MB,Desert Dweller,DesertdwellerMb_TS.png,1
+49,DESERTDWELLER_FW,Desert Dweller,DesertdwellerFw_TS.png,1
+50,DESERTDWELLER_FB,Desert Dweller,DesertdwellerFb_TS.png,1
+51,NEWREP,News Crew,Newrep_TS.png,4
+52,POKEGANG2,Poke Gang,Pokegang2_TS.png,30
+53,MERCH,Merchant,Merch_TS.png,30
+54,BEAST,Ancient Leviathan,Beast_TS.png,30
+55,LUNA,Chaotic Fusion,Luna_TS.png,30
+56,POKEGANG,PokeGang,Pokegang_TS.png,30
+57,RENEGADE,Renegade,Renegade_TS.png,30
+58,CHALLENGER,Challenger,Challenger_TS.png,4
+59,GHOSTGIRL,Ghost Girl,Ghostgirl_TS.png,4
+60,GHOSTGUY,Ghost Guy,Ghostguy_TS.png,4
+61,GANGLEADER,Gang Leader,Gangleader_TS.png,4
+62,POKEGANG_1,PokeGang,Pokegang1_TS.png,30
+63,BUGCATCH,Bug Catcher,Bugcatch_TS.png,10
+64,WITCH,Spellcaster,Witch_TS.png,10
+65,YOUNGMONEY,YOUNGSTER,Youngmoney_TS.png,10
+66,LADYGIRL,Lady,Ladygirl_TS.png,13
+67,SUPERSTAR,Lingering Regret,Superstar_TS.png,30
+68,SECURITYBOT,Security Bot,Securitybot_TS.png,30
+69,GARBODOR,Garbodor,Garbodor_TS.png,30
+70,DISCOTEEN,Dance Prodigy,Discoteen_TS.png,18
+71,ANCIENT,Ancient Guard,Ancient_TS.png,30
+72,WANDERER,Wanderer,Wanderer_TS.png,18
+73,SENSEI_1,Sensei,Sensei1_TS.png,30
+74,POKEGANG3,PokeGang,Pokegang3_TS.png,30
+75,POKEGANG4,PokeGang,Pokegang4_TS.png,30
+76,POKEGANG5,Island Deity,Pokegang5_TS.png,30
+77,POKEMONRANGER_M1,Pokemon Ranger,PokemonrangerM1_TS.png,10
+78,POKEMONRANGER_F1,Pokémon Ranger,PokemonrangerF1_TS.png,10
+79,MADSCIENTIST,Mad Scientist,Madscientist_TS.png,30
+80,STUDENT,Student,Student_TS.png,15
+81,STUDENT_2,Student,Student2_TS.png,30
+82,ENIGMA,Pokemon Trainer,Enigma_TS.png,15
+83,APPRENTICE,Apprentice,Apprentice_TS.png,15
+84,ROGUEAPP,Rogue Apprentice,Rogueapp_TS.png,15
+85,CANDIDGIRL,Candid Girl,Candidgirl_TS.png,15
+86,OUTCAST,Outcast,Outcast_TS.png,15
+87,RUNAWAYGIRL,Runaway,Runawaygirl_TS.png,15
+88,XENDEATHWING_M,Deathwing,XendeathwingM_TS.png,4
+89,XENDEATHWING_F,Deathwing,XendeathwingF_TS.png,4
+90,XENGRUNT_M,Team Xen,XengruntM_TS.png,4
+91,XENGRUNT_F,Team Xen,XengruntF_TS.png,4
+92,XENEXECUTIVE_1,Xen Executive,Xenexecutive1_TS.png,20
+93,XENEXECUTIVE_2,Xen Executive,Xenexecutive2_TS.png,20
+94,XENEXECUTIVE_3,Xen Executive,Xenexecutive3_TS.png,20
+95,XENEXECUTIVE_4,Xen Executive,Xenexecutive4_TS.png,20
+96,MISFORTUNATEDUO,Misfortunate Duo,Misfortunateduo_TS.png,13
+97,DNACLONE,DNA Clone,Dnaclone_TS.png,30
+98,SERVANT,Servant,Servant_TS.png,1
+99,SECURITYSYSTEM,Security Component,Securitysystem_TS.png,30
+100,DOCTOR,Doctor,Doctor_TS.png,15
+101,HOOD,Mystery Girl,Hood_TS.png,30
+102,XENDICTATOR,Xen Dictator,Xendictator_TS.png,30
+103,TEAMAA_F,Team Anti-Assist,TeamaaF_TS.png,6
+104,TEAMAA_M,Team Anti-Assist,TeamaaM_TS.png,6
+105,BLADESTAR_F,Bladestar,BladestarF_TS.png,6
+106,BLADESTAR_M,Bladestar,BladestarM_TS.png,6
+107,CAPTAIN,Captain,Captain_TS.png,22
+108,SURVIVOR,Survivor,Survivor_TS.png,30
+109,SPELUNKER_BLADEM,Spelunker Grunt,SpelunkerBladem_TS.png,22
+110,PRISONGUARD,Prison Guard,Prisonguard_TS.png,12
+111,XENANALYST_F,Xen Analyst,XenanalystF_TS.png,12
+112,DIMENSIONALRIFT,Dimensional Rift,Dimensionalrift_TS.png,30
+113,RENEGADEM,Pyriah,Renegadem_TS.png,1
+114,RENEGADEF,Pyriah,Renegadef_TS.png,1
+115,FAITHFUL,Angie's Right Hand,Faithful_TS.png,22
+116,HOOD1,Hooded Boy,Hood1_TS.png,22
+117,BLADESTAR_F1,Bladestar Admin,BladestarF1_TS.png,16
+118,BLADESTAR_M1,Bladestar Admin,BladestarM1_TS.png,17
+119,LEADER_VENAM,Punk Girl,LeaderVenam_TS.png,19
+120,LEADER_VENAM2,Punk Girl,LeaderVenam2_TS.png,24
+121,LEADER_KETA,Sensei,LeaderKeta_TS.png,22
+122,LEADER_KETA2,Sensei,LeaderKeta2_TS.png,30
+123,LEADER_MARIANETTE,Child of Light,LeaderMarianette_TS.png,8
+124,LEADER_NARCISSA,Actress,LeaderNarcissa_TS.png,23
+125,LEADER_VALARIE,Water Show Performer,LeaderValarie_TS.png,22
+126,LEADER_CRAWLI,Head Ranger,LeaderCrawli_TS.png,28
+127,LEADER_CRAWLI2,International Police,LeaderCrawli2_TS.png,30
+128,LEADER_ANGIE,Faithful Servant,LeaderAngie_TS.png,12
+129,LEADER_TEXEN,Pseudo Sensei,LeaderTexen_TS.png,6
+130,LEADER_AMBER,Music Enthusiast,LeaderAmber_TS.png,15
+131,LEADER_ERICK,Electrical Engineer,LeaderErick_TS.png,22
+132,LEADER_FLORA,Botanist,LeaderFlora_TS.png,16
+133,LEADER_FLORIN,Botanist,LeaderFlorin_TS.png,16
+134,LEADER_PUPPET1,Puppet Master,LeaderPuppet1_TS.png,20
+135,LEADER_PUPPET2,Puppet Master,LeaderPuppet2_TS.png,20
+136,LEADER_SOUTA,Spiritual Healer,LeaderSouta_TS.png,10
+137,LEADER_SPECTOR,Ghost Kid,LeaderSpector_TS.png,20
+138,LEADER_SAKI,Ultimate Engineer,LeaderSaki_TS.png,30
+139,LEADER_SAKI2,Ultimate Engineer,LeaderSaki2_TS.png,98
+140,LEADER_RYLAND,Forgotten Prince,LeaderRyland_TS.png,10
+141,LEADER_LAVENDER,Psychologist,LeaderLavender_TS.png,20
+142,UNKNOWN_1,???,Unknown1_TS.png,20
+143,UNKNOWN_2,???,Unknown2_TS.png,20
+144,RECO_F,Rejuv Co. Employee,RecoF_TS.png,10
+145,RECO_M,Rejuv Co. Employee,RecoM_TS.png,10
+146,OPTKID,Optimistic Guy,Optkid_TS.png,15
+147,OPTKID_1,Optimistic Guy,Optkid1_TS.png,15
+148,TRENDYGIRL,Trendy Girl,Trendygirl_TS.png,15
+149,TRENDYGIRL_1,Trendy Girl,Trendygirl1_TS.png,15
+150,LEADER_ADAM,Aevium Sensation,LeaderAdam_TS.png,20
+151,LEADER_ADAM1,Ruin Maniac,LeaderAdam1_TS.png,20
+152,ANGELOFDEATH,Angel of Death,Angelofdeath_TS.png,30
+153,OPTKID_2,Servant,Optkid2_TS.png,15
+154,ENIGMA_2,Pokemon Trainer,Enigma2_TS.png,15
+155,WPUNK,Wasteland Punk,Wpunk_TS.png,15
+156,POKEGANG6,PokeGang,Pokegang6_TS.png,30
+157,POPSTAR,Popstar,Popstar_TS.png,30
+158,ROGPSYCHIC,Rogue Psychic,Rogpsychic_TS.png,30
+159,STUDENT_3,Leader,Student3_TS.png,30
+160,HERO,Eventual Hero,Hero_TS.png,30
+161,POKEGANG7,Tormented Leviathan,Pokegang7_TS.png,30
+162,HERO1,Hero of Goomidra,Hero1_TS.png,30
+163,GAUNTLET,Guardian Spectre,Gauntlet_TS.png,30
+164,DEFENSEMECH,Defense,Defensemech_TS.png,30
+165,NANO,Android Girl,Nano_TS.png,30
+166,POKEGANG8,Temple,Pokegang8_TS.png,30
+167,LEADER_VENAM3,Punk Girl,LeaderVenam3_TS.png,24
+168,ENIGMA_1,Pokemon Trainer,Enigma1_TS.png,15
+169,LEADER_ANGIE2,Faithful Servant,LeaderAngie2_TS.png,20
+170,AXISSTUDENT_MW,Axis High Student,AxisstudentMw_TS.png,1
+171,AXISSTUDENT_MB,Axis High Student,AxisstudentMb_TS.png,1
+172,AXISSTUDENT_FW,Axis High Student,AxisstudentFw_TS.png,1
+173,AXISSTUDENT_FB,Axis High Student,AxisstudentFb_TS.png,1
+174,LEADER_AMBER2,Music Enthusiast,LeaderAmber2_TS.png,68
+175,MASKEDMAN,Masked Individual,Maskedman_TS.png,30
+176,MYSTSTUDENT,Mysterious Student,Myststudent_TS.png,1
+177,XENADMIN_1,Xen Admin,Xenadmin1_TS.png,20
+178,ELITE_KAREN,Elite Eight,EliteKaren_TS.png,20
+179,ROGUEHERO,Rogue Hero,Roguehero_TS.png,20
+180,LITTLEDEMON,Little Demon,Littledemon_TS.png,15
+181,LEADER_DAMIEN,Ruin Maniac,LeaderDamien_TS.png,20
+182,CANDIDGIRL2,Strategist,Candidgirl2_TS.png,15
+183,ICESOLDIERS,Ice Soldiers,Icesoldiers_TS.png,30
+184,MYSTMAGE,Arrogant Scholar,Mystmage_TS.png,15
+185,XENEXECUTIVE_5,Xen Executive,Xenexecutive5_TS.png,22
+186,ELITE_ALEXANDRA,Elite Eight,EliteAlexandra_TS.png,20
+187,PRINCESS_ODESSA,Kristilian Princess,PrincessOdessa_TS.png,20
+188,LEADER_TALON,Cartographer,LeaderTalon_TS.png,20
+189,MASKEDDUO,Mystery Duo,Maskedduo_TS.png,20
+190,INTERCEPTOR,Interceptor,Interceptor_TS.png,20
+191,TREAT_01,Inevitable Grief,Treat01_TS.png,30
+192,TREAT_02,Inevitable Grief,Treat02_TS.png,30
+193,TREAT_03,Inevitable Grief,Treat03_TS.png,30
+194,XENMAGE_M,Xen Mage,XenmageM_TS.png,4
+195,XENMAGE_F,Xen Mage,XenmageF_TS.png,4
+196,XG_SABER,Trainer,XgSaber_TS.png,4
+197,XG_WYNN,Neighbor,XgWynn_TS.png,4
+198,XG_ENYA,Firebrand,XgEnya_TS.png,4
+199,XG_ADELINDE,Serenity,XgAdelinde_TS.png,4
+200,XG_LUCILE,Mayor,XgLucile_TS.png,4
+201,XG_GRUNTM,Splicer Grunt,XgGruntm_TS.png,4
+202,XG_GRUNTF,Splicer Grunt,XgGruntf_TS.png,4
+203,XG_SIERRA,Splicer Admin,XgSierra_TS.png,4
+204,POKEGANG9,Garbage Gang,Pokegang9_TS.png,1
+205,STEELRESERVE,Steel Reserve,Steelreserve_TS.png,4
+206,ICEHEIRESS,Ice Heiress,Iceheiress_TS.png,23
+207,LEADER_RYLAND1,Forgotten Prince,LeaderRyland1_TS.png,4
+208,TRAINER_M2,Fallen Goddess,TrainerM2_TS.png,15
+209,GIRLSCOUTS,Girl Scouts,Girlscouts_TS.png,4
+210,DON,Don,Don_TS.png,23
+211,LEADER_TALON_1,Cartographer,LeaderTalon1_TS.png,20
+212,LEADER_ALICE,Gym Leader,LeaderAlice_TS.png,20
+213,SASHILAWARRIORM_1,Sashilan Warrior,Sashilawarriorm1_TS.png,4
+214,SASHILAWARRIORM_2,Sashilan Warrior,Sashilawarriorm2_TS.png,4
+215,SASHILAWARRIORF_1,Sashilan Warrior,Sashilawarriorf1_TS.png,4
+216,SASHILAWARRIORF_2,Sashilan Warrior,Sashilawarriorf2_TS.png,4
+217,DIABOLICALGENIUS,Diabolical Evil Genius,Diabolicalgenius_TS.png,15
+218,INTERCEPTORV,Interceptor,Interceptorv_TS.png,15
+219,MELIA_AWAKEN,Awakened Goddess,MeliaAwaken_TS.png,20
+220,PROFJENNER,Professor,Profjenner_TS.png,18
+221,COMMANDER,Commander,Commander_TS.png,18
+222,SPIRITJENNER,Spirit,Spiritjenner_TS.png,18
+223,LEADER_SPECTOR2,Ghost Kid,LeaderSpector2_TS.png,20
+224,SPIRITXARA,Spirit,Spiritxara_TS.png,18
+225,SPIRITJEAN,Spirit,Spiritjean_TS.png,18
+226,JOHTO_1,Gym Leader,Johto1_TS.png,30
+227,JOHTO_2,Gym Leader,Johto2_TS.png,30
+228,JOHTO_3,Gym Leader,Johto3_TS.png,30
+229,JOHTO_4,Gym Leader,Johto4_TS.png,30
+230,JOHTO_5,Gym Leader,Johto5_TS.png,30
+231,JOHTO_6,Gym Leader,Johto6_TS.png,30
+232,JOHTO_7,Gym Leader,Johto7_TS.png,30
+233,JOHTO_8,Gym Leader,Johto8_TS.png,30
+234,JOHTO_9,Elite Four,Johto9_TS.png,30
+235,JOHTO_10,Elite Four,Johto10_TS.png,30
+236,JOHTO_11,Elite Four,Johto11_TS.png,30
+237,JOHTO_12,Elite Four,Johto12_TS.png,30
+238,JOHTO_13,Champion,Johto13_TS.png,30
+239,JOHTO_0M,Trainer,Johto0m_TS.png,30
+240,JOHTO_0F,Trainer,Johto0f_TS.png,30
+241,RUINMANIAC,Ruin Maniac,Ruinmaniac_TS.png,48
+242,POKEMANIAC,Poké Maniac,Pokemaniac_TS.png,64
+243,POKEMONBREEDER,Pokémon Breeder,Pokemonbreeder_TS.png,48
+244,JUGGLER,Juggler,Juggler_TS.png,32
+245,GAMBLER,Gambler,Gambler_TS.png,72
+246,SUPERNERD,Super Nerd,Supernerd_TS.png,48
+247,TAMER,Tamer,Tamer_TS.png,40
+248,SWIMMER_M,Swimmer,SwimmerM_TS.png,16
+249,SWIMMER_F,Swimmer,SwimmerF_TS.png,16
+250,TUBER_M,Tuber,TuberM_TS.png,4
+251,TUBER_F,Tuber,TuberF_TS.png,4
+252,TEAMROCKET_M,Team Rocket,TeamrocketM_TS.png,32
+253,TEAMROCKET_F,Team Rocket,TeamrocketF_TS.png,32
+254,PSYCHIC_M,Psychic,PsychicM_TS.png,32
+255,PSYCHIC_F,Psychic,PsychicF_TS.png,32
+256,TWINS,Twins,Twins_TS.png,24
+257,COOLCOUPLE,Cool Couple,Coolcouple_TS.png,72
+258,CRUSHKIN,Crush Kin,Crushkin_TS.png,48
+259,SISANDBRO,Sis and Bro,Sisandbro_TS.png,16
+260,BIKER,Biker,Biker_TS.png,32
+261,SAILOR,Sailor,Sailor_TS.png,32
+262,GENTLEMAN,Sailor,Gentleman_TS.png,32

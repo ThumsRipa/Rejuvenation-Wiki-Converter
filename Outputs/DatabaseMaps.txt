@@ -1,0 +1,1858 @@
+local Database = {
+["000"] = {
+	Name="None",
+},
+["001"] = {
+	Name="Intro",
+},
+["002"] = {
+	Name="Gate Plaza",
+},
+["003"] = {
+	Name="Route 11",
+},
+["004"] = {
+	Name="Amethyst Cave",
+},
+["005"] = {
+	Name="Route 1",
+},
+["006"] = {
+	Name="Valor Mountain",
+},
+["007"] = {
+	Name="Sensei's House",
+},
+["008"] = {
+	Name="Goldenwood Cave",
+},
+["009"] = {
+	Name="Dream District",
+},
+["010"] = {
+	Name="REMOVED",
+},
+["011"] = {
+	Name="Wispy Ruins",
+},
+["012"] = {
+	Name="Wispy Chasm",
+},
+["013"] = {
+	Name="Akuwa Town",
+},
+["014"] = {
+	Name="Blacksteeple Castle",
+},
+["015"] = {
+	Name="Help Plaza",
+},
+["016"] = {
+	Name="S.S. Oceana",
+},
+["017"] = {
+	Name="Goldenleaf Town",
+},
+["018"] = {
+	Name="REMOVED",
+},
+["019"] = {
+	Name="East Gearen City - Neo",
+},
+["020"] = {
+	Name="Gearen Alleyway",
+},
+["021"] = {
+	Name="Oceana Pier",
+},
+["022"] = {
+	Name="REMOVED",
+},
+["023"] = {
+	Name="Castillo De Ángel",
+},
+["024"] = {
+	Name="Gearen Park",
+},
+["025"] = {
+	Name="Goldenwood Forest",
+},
+["026"] = {
+	Name="Help Plaza",
+},
+["027"] = {
+	Name="Akuwa Aquarium",
+},
+["028"] = {
+	Name="Festival Plaza",
+},
+["029"] = {
+	Name="I.N.K.",
+},
+["030"] = {
+	Name="Sheridan Village",
+},
+["031"] = {
+	Name="S.S. Oceana",
+},
+["032"] = {
+	Name="Rift Paradise",
+},
+["033"] = {
+	Name="Nightmare Realm",
+},
+["034"] = {
+	Name="Xen Lounge",
+},
+["035"] = {
+	Name="S.S. Oceana",
+},
+["036"] = {
+	Name="REMOVED",
+},
+["037"] = {
+	Name="???",
+},
+["038"] = {
+	Name="Sheridan Arena (COPY)",
+},
+["039"] = {
+	Name="Honec Shrine",
+},
+["040"] = {
+	Name="Parks and Rec.",
+},
+["041"] = {
+	Name="Hidden Chamber",
+},
+["042"] = {
+	Name="Valor Mountain",
+},
+["043"] = {
+	Name="REMOVED",
+},
+["044"] = {
+	Name="East Gearen City | Neo",
+},
+["045"] = {
+	Name="Valor Mountain",
+},
+["046"] = {
+	Name="Terajuma",
+},
+["047"] = {
+	Name="REMOVED",
+},
+["048"] = {
+	Name="East Gearen City",
+},
+["049"] = {
+	Name="District of Hope",
+},
+["050"] = {
+	Name="Goldenwood Forest",
+},
+["051"] = {
+	Name="East Gearen City",
+},
+["052"] = {
+	Name="Hospital of Hope",
+},
+["053"] = {
+	Name="Nightmare Realm",
+},
+["054"] = {
+	Name="Marble Cutscene",
+},
+["055"] = {
+	Name="Abandoned Sewers",
+},
+["056"] = {
+	Name="Pokemon Hospital",
+},
+["057"] = {
+	Name="Land of Broken Dreams",
+},
+["058"] = {
+	Name="East Gearen City",
+},
+["059"] = {
+	Name="East Gearen City",
+},
+["060"] = {
+	Name="East Gearen City",
+},
+["061"] = {
+	Name="East Gearen City",
+},
+["062"] = {
+	Name="Celgearn Castle",
+},
+["063"] = {
+	Name="Cutscene World",
+},
+["064"] = {
+	Name="Corrupted Cave",
+},
+["065"] = {
+	Name="Kakori Gym",
+},
+["066"] = {
+	Name="Nightmare Realm",
+},
+["067"] = {
+	Name="Route 3",
+},
+["068"] = {
+	Name="Oceana Pier Gate",
+},
+["069"] = {
+	Name="Route 3",
+},
+["070"] = {
+	Name="Castillo De la Ángel",
+},
+["071"] = {
+	Name="Route 3",
+},
+["072"] = {
+	Name="Garufa Sanctuary",
+},
+["073"] = {
+	Name="Wispy Tower",
+},
+["074"] = {
+	Name="Axis High University",
+},
+["075"] = {
+	Name="Evergreen Island",
+},
+["076"] = {
+	Name="Zorrialyn Coast",
+},
+["077"] = {
+	Name="Amethyst Depths",
+},
+["078"] = {
+	Name="Rift Lethal Forest",
+},
+["079"] = {
+	Name="Oceana Pier",
+},
+["080"] = {
+	Name="Water Treatment Center",
+},
+["081"] = {
+	Name="THIEF'S DUNGEON!",
+},
+["082"] = {
+	Name="Goldenleaf Town",
+},
+["083"] = {
+	Name="3rd Layer",
+},
+["084"] = {
+	Name="Rift Dragon Gate",
+},
+["085"] = {
+	Name="Nightmare Toy Box",
+},
+["086"] = {
+	Name="REMOVED",
+},
+["087"] = {
+	Name="Route 10",
+},
+["088"] = {
+	Name="Xen Battleship",
+},
+["089"] = {
+	Name="Xen Battleship",
+},
+["090"] = {
+	Name="REMOVED",
+},
+["091"] = {
+	Name="Forgotten Path",
+},
+["092"] = {
+	Name="Parks and Rec. Center",
+},
+["093"] = {
+	Name="REMOVED",
+},
+["094"] = {
+	Name="School of Nightmares",
+},
+["095"] = {
+	Name="Wispy Path",
+},
+["096"] = {
+	Name="Altered Dimension",
+},
+["097"] = {
+	Name="Phasial Cave",
+},
+["098"] = {
+	Name="Dr.Jenkel's Lab",
+},
+["099"] = {
+	Name="School of Nightmares",
+},
+["100"] = {
+	Name="Route 11",
+},
+["101"] = {
+	Name="District of Hope",
+},
+["102"] = {
+	Name="Wispy Tower",
+},
+["103"] = {
+	Name="Akuwa Town",
+},
+["104"] = {
+	Name="Chrisola Penthouse",
+},
+["105"] = {
+	Name="Pokemon Center",
+},
+["106"] = {
+	Name="Route 4",
+},
+["107"] = {
+	Name="Cubi Excellus",
+},
+["108"] = {
+	Name="Poké Mart",
+},
+["109"] = {
+	Name="Amethyst Depths",
+},
+["110"] = {
+	Name="Goldenleaf Center",
+},
+["111"] = {
+	Name="Axis Factory",
+},
+["112"] = {
+	Name="Darchlight Manor",
+},
+["113"] = {
+	Name="New Game",
+},
+["114"] = {
+	Name="Testing Map",
+},
+["115"] = {
+	Name="Route 4",
+},
+["116"] = {
+	Name="Phasial Cave",
+},
+["117"] = {
+	Name="Help Plaza",
+},
+["118"] = {
+	Name="Forest of Time",
+},
+["119"] = {
+	Name="Carotos Mountain",
+},
+["120"] = {
+	Name="Terajuma Lighthouses",
+},
+["121"] = {
+	Name="Hidden Shack",
+},
+["122"] = {
+	Name="Route 4",
+},
+["123"] = {
+	Name="Celgearn Castle",
+},
+["124"] = {
+	Name="Madelis' Laboratory",
+},
+["125"] = {
+	Name="KUGEAREN CUT",
+},
+["126"] = {
+	Name="Den of Souls",
+},
+["127"] = {
+	Name="Sheridan Village",
+},
+["128"] = {
+	Name="Blacksteeple Island",
+},
+["129"] = {
+	Name="Route 4",
+},
+["130"] = {
+	Name="Route 4",
+},
+["131"] = {
+	Name="Spring of Purification",
+},
+["132"] = {
+	Name="Route 4",
+},
+["133"] = {
+	Name="Gemstream Mine",
+},
+["134"] = {
+	Name="Oceana Pier | Neo",
+},
+["135"] = {
+	Name="Cubi Maximus",
+},
+["136"] = {
+	Name="Faraway Lodge",
+},
+["137"] = {
+	Name="Darchlight Caves",
+},
+["138"] = {
+	Name="Cubi Expergis",
+},
+["139"] = {
+	Name="Valor Mountain",
+},
+["140"] = {
+	Name="Valor Mountain",
+},
+["141"] = {
+	Name="2nd Layer",
+},
+["142"] = {
+	Name="Moon Field",
+},
+["143"] = {
+	Name="REMOVED",
+},
+["144"] = {
+	Name="Nightmare Realm",
+},
+["145"] = {
+	Name="Hidden Axis Lab",
+},
+["146"] = {
+	Name="Valor Mountain",
+},
+["147"] = {
+	Name="Castillo De la Ángel",
+},
+["148"] = {
+	Name="Castillo De la Ángel",
+},
+["149"] = {
+	Name="Mirage Woods",
+},
+["150"] = {
+	Name="Zeight",
+},
+["151"] = {
+	Name="Nightbox Theater",
+},
+["152"] = {
+	Name="Rift Nirvana",
+},
+["153"] = {
+	Name="V.G.C.R.",
+},
+["154"] = {
+	Name="Kakori Gym",
+},
+["155"] = {
+	Name="REMOVED",
+},
+["156"] = {
+	Name="Valor Chamber",
+},
+["157"] = {
+	Name="Goldenwood Cave",
+},
+["158"] = {
+	Name="The Silent Grove",
+},
+["159"] = {
+	Name="Amethyst Cave",
+},
+["160"] = {
+	Name="School of Nightmares",
+},
+["161"] = {
+	Name="Amethyst Cave",
+},
+["162"] = {
+	Name="Amethyst Mines",
+},
+["163"] = {
+	Name="Gate Plaza",
+},
+["164"] = {
+	Name="RAMPAGE",
+},
+["165"] = {
+	Name="3rd HQ",
+},
+["166"] = {
+	Name="Route 4",
+},
+["167"] = {
+	Name="Route 4",
+},
+["168"] = {
+	Name="Route 4",
+},
+["169"] = {
+	Name="Zeight",
+},
+["170"] = {
+	Name="Terajuma Trench",
+},
+["171"] = {
+	Name="Terajuma Beach",
+},
+["172"] = {
+	Name="Castillo De Ángel",
+},
+["173"] = {
+	Name="Jynnobi Pass",
+},
+["174"] = {
+	Name="Mirimura Cave",
+},
+["175"] = {
+	Name="Valor Cliffside",
+},
+["176"] = {
+	Name="ACDMC Center",
+},
+["177"] = {
+	Name="Terajuma Beach",
+},
+["178"] = {
+	Name="Jynnobi Pass",
+},
+["179"] = {
+	Name="Tyluric Temple",
+},
+["180"] = {
+	Name="East Gearen Station",
+},
+["181"] = {
+	Name="Tyluric Temple",
+},
+["182"] = {
+	Name="Deep Terajuma Jungle",
+},
+["183"] = {
+	Name="T. Excavation Site",
+},
+["184"] = {
+	Name="Amethyst Cave",
+},
+["185"] = {
+	Name="RV",
+},
+["186"] = {
+	Name="Mirage Cave",
+},
+["187"] = {
+	Name="Everglade Mall",
+},
+["188"] = {
+	Name="REMOVED",
+},
+["189"] = {
+	Name="Tecanlite Factory",
+},
+["190"] = {
+	Name="Goldenwood Forest",
+},
+["191"] = {
+	Name="REMOVED",
+},
+["192"] = {
+	Name="REMOVED",
+},
+["193"] = {
+	Name="REMOVED",
+},
+["194"] = {
+	Name="Central Square",
+},
+["195"] = {
+	Name="REMOVED",
+},
+["196"] = {
+	Name="Abandoned Apartments",
+},
+["197"] = {
+	Name="REMOVED",
+},
+["198"] = {
+	Name="Night Market",
+},
+["199"] = {
+	Name="Route 2",
+},
+["200"] = {
+	Name="Cliffside Grave",
+},
+["201"] = {
+	Name="Helojak Island",
+},
+["202"] = {
+	Name="Texen's House",
+},
+["203"] = {
+	Name="PokeStar Studios",
+},
+["204"] = {
+	Name="Magnolia Library",
+},
+["205"] = {
+	Name="Wetlands Laboratory",
+},
+["206"] = {
+	Name="Spring of Purification",
+},
+["207"] = {
+	Name="Terajuma Shipyard",
+},
+["208"] = {
+	Name="Deep Terajuma Jungle",
+},
+["209"] = {
+	Name="Dream District",
+},
+["210"] = {
+	Name="Terajuma Jungle",
+},
+["211"] = {
+	Name="Jirukala Cavern",
+},
+["212"] = {
+	Name="Helojak Factory (E)",
+},
+["213"] = {
+	Name="Magrodar Crater",
+},
+["214"] = {
+	Name="Removed",
+},
+["215"] = {
+	Name="Marine Tube",
+},
+["216"] = {
+	Name="Goldenwood Forest",
+},
+["217"] = {
+	Name="Goldenwood Park",
+},
+["218"] = {
+	Name="The Back Alley",
+},
+["219"] = {
+	Name="Lost Castle",
+},
+["220"] = {
+	Name="Goldenwood Fish Guild",
+},
+["221"] = {
+	Name="Sheridan Wetlands",
+},
+["222"] = {
+	Name="Wetlands Labs (Removed)",
+},
+["223"] = {
+	Name="Hidden Cave",
+},
+["224"] = {
+	Name="Rift Beach Concert",
+},
+["225"] = {
+	Name="Valor Summit",
+},
+["226"] = {
+	Name="Stange Shack",
+},
+["227"] = {
+	Name="Darchlight Caves",
+},
+["228"] = {
+	Name="Chrisola Hotel Rooftop",
+},
+["229"] = {
+	Name="Eclysia Pyramid",
+},
+["230"] = {
+	Name="Chrisola Hotel",
+},
+["231"] = {
+	Name="Somniam Mall",
+},
+["232"] = {
+	Name="Zeight",
+},
+["233"] = {
+	Name="Darchlight Labs",
+},
+["234"] = {
+	Name="Kugearen City",
+},
+["235"] = {
+	Name="Aevium (Past)",
+},
+["236"] = {
+	Name="Route 3",
+},
+["237"] = {
+	Name="Amberette Town",
+},
+["238"] = {
+	Name="West Gearen City",
+},
+["239"] = {
+	Name="West Gearen City",
+},
+["240"] = {
+	Name="Kugearen Woods",
+},
+["241"] = {
+	Name="Marble Mansion",
+},
+["242"] = {
+	Name="Kugearen City",
+},
+["243"] = {
+	Name="???",
+},
+["244"] = {
+	Name="Heracross Woods",
+},
+["245"] = {
+	Name="Secret Shore",
+},
+["246"] = {
+	Name="The Old World",
+},
+["247"] = {
+	Name="Dream District",
+},
+["248"] = {
+	Name="Night Market",
+},
+["249"] = {
+	Name="Amberette Town",
+},
+["250"] = {
+	Name="Marble Mansion",
+},
+["251"] = {
+	Name="Zeight",
+},
+["252"] = {
+	Name="Sapphire Museum",
+},
+["253"] = {
+	Name="Gearen News HQ",
+},
+["254"] = {
+	Name="Route 9",
+},
+["255"] = {
+	Name="REMOVED",
+},
+["256"] = {
+	Name="WG Power Plant",
+},
+["257"] = {
+	Name="Scholar District",
+},
+["258"] = {
+	Name="Botanical Garden",
+},
+["259"] = {
+	Name="Blakeory Athenaeum",
+},
+["260"] = {
+	Name="GDC Arcade",
+},
+["261"] = {
+	Name="Junction Bridge",
+},
+["262"] = {
+	Name="Hidden Ritual",
+},
+["263"] = {
+	Name="Oblitus Town",
+},
+["264"] = {
+	Name="Gearen Laboratory",
+},
+["265"] = {
+	Name="Help Plaza",
+},
+["266"] = {
+	Name="West Gearen City",
+},
+["267"] = {
+	Name="Between Space and Time",
+},
+["268"] = {
+	Name="Deep Terajuma Jungle",
+},
+["269"] = {
+	Name="Evergreen Cave [North]",
+},
+["270"] = {
+	Name="Blakeory Manor",
+},
+["271"] = {
+	Name="WG Generator Room",
+},
+["272"] = {
+	Name="The Lost Camp",
+},
+["273"] = {
+	Name="Route 9",
+},
+["274"] = {
+	Name="Maman's Abode",
+},
+["275"] = {
+	Name="The Lost Camp",
+},
+["276"] = {
+	Name="The Lost Camp",
+},
+["277"] = {
+	Name="The Lost Camp",
+},
+["278"] = {
+	Name="Mynori Coral Reef",
+},
+["279"] = {
+	Name="Zeight",
+},
+["280"] = {
+	Name="Pokemon Center",
+},
+["281"] = {
+	Name="Poke Mart",
+},
+["282"] = {
+	Name="Dream District",
+},
+["283"] = {
+	Name="REMOVED",
+},
+["284"] = {
+	Name="???",
+},
+["285"] = {
+	Name="Rose Theatre",
+},
+["286"] = {
+	Name="Grand Dream Station",
+},
+["287"] = {
+	Name="Central Square Interior",
+},
+["288"] = {
+	Name="REMOVED",
+},
+["289"] = {
+	Name="REMOVED",
+},
+["290"] = {
+	Name="Blakeory Museum",
+},
+["291"] = {
+	Name="PokeStar Studios",
+},
+["292"] = {
+	Name="Botanical Garden",
+},
+["293"] = {
+	Name="Unown Dimension",
+},
+["294"] = {
+	Name="Central Building",
+},
+["295"] = {
+	Name="Mt. Terajuma",
+},
+["296"] = {
+	Name="REMOVED",
+},
+["297"] = {
+	Name="Mirage Center",
+},
+["298"] = {
+	Name="Kakori Village",
+},
+["299"] = {
+	Name="Mynori Sea",
+},
+["300"] = {
+	Name="Route 6",
+},
+["301"] = {
+	Name="Route 5",
+},
+["302"] = {
+	Name="Aquamarine Cave",
+},
+["303"] = {
+	Name="Blacksteeple Mines",
+},
+["304"] = {
+	Name="Gearen Laboratory",
+},
+["305"] = {
+	Name="REMOVED",
+},
+["306"] = {
+	Name="Melia's Room",
+},
+["307"] = {
+	Name="REMOVED",
+},
+["308"] = {
+	Name="REMOVED",
+},
+["309"] = {
+	Name="Aquamarine Cave",
+},
+["310"] = {
+	Name="EV Training Room",
+},
+["311"] = {
+	Name="Axis High University",
+},
+["312"] = {
+	Name="REMOVED",
+},
+["313"] = {
+	Name="Rhodea's Penthouse",
+},
+["314"] = {
+	Name="REMOVED",
+},
+["315"] = {
+	Name="Rose Theatre",
+},
+["316"] = {
+	Name="Central Rooftop",
+},
+["317"] = {
+	Name="Judicial District",
+},
+["318"] = {
+	Name="Xen Battleship",
+},
+["319"] = {
+	Name="REMOVED",
+},
+["320"] = {
+	Name="East Gearen City",
+},
+["321"] = {
+	Name="Goldenwood Forest",
+},
+["322"] = {
+	Name="Route 5",
+},
+["323"] = {
+	Name="Aquamarine Depths",
+},
+["324"] = {
+	Name="Aquamarine Chamber",
+},
+["325"] = {
+	Name="Secluded Shore",
+},
+["326"] = {
+	Name="Aquamarine Depths",
+},
+["327"] = {
+	Name="Teila Resort",
+},
+["328"] = {
+	Name="Kristiline Town",
+},
+["329"] = {
+	Name="Kristiline Town",
+},
+["330"] = {
+	Name="Hiyoshi City",
+},
+["331"] = {
+	Name="Kakori Village",
+},
+["332"] = {
+	Name="Ranger HQ",
+},
+["333"] = {
+	Name="Teila Resort",
+},
+["334"] = {
+	Name="Teila Resort",
+},
+["335"] = {
+	Name="Tesla's Villa",
+},
+["336"] = {
+	Name="Kristiline Town",
+},
+["337"] = {
+	Name="Church of Theolia",
+},
+["338"] = {
+	Name="Tower of Theolia",
+},
+["339"] = {
+	Name="Tower of Theolia",
+},
+["340"] = {
+	Name="REMOVED",
+},
+["341"] = {
+	Name="REMOVED",
+},
+["342"] = {
+	Name="Grand Express",
+},
+["343"] = {
+	Name="Crystal Fairytale",
+},
+["344"] = {
+	Name="Tower Cellar",
+},
+["345"] = {
+	Name="REMOVED",
+},
+["346"] = {
+	Name="Battlefield of the Gods",
+},
+["347"] = {
+	Name="Weather Institute",
+},
+["348"] = {
+	Name="Dream",
+},
+["349"] = {
+	Name="Terrial Island",
+},
+["350"] = {
+	Name="Route 7",
+},
+["351"] = {
+	Name="Route 7",
+},
+["352"] = {
+	Name="Route 7",
+},
+["353"] = {
+	Name="Oblitus Town",
+},
+["354"] = {
+	Name="Yui's Ranch",
+},
+["355"] = {
+	Name="Grand Bridge",
+},
+["356"] = {
+	Name="Honec Woods",
+},
+["357"] = {
+	Name="Darchlight Woods",
+},
+["358"] = {
+	Name="Darchlight Woods",
+},
+["359"] = {
+	Name="Darchlight Woods",
+},
+["360"] = {
+	Name="Darchlight Village",
+},
+["361"] = {
+	Name="Route 8",
+},
+["362"] = {
+	Name="Darchlight Woods",
+},
+["363"] = {
+	Name="Darchlight Caves",
+},
+["364"] = {
+	Name="Courtroom #4",
+},
+["365"] = {
+	Name="Darchlight Labs",
+},
+["366"] = {
+	Name="REMOVED",
+},
+["367"] = {
+	Name="Oblitus Town",
+},
+["368"] = {
+	Name="Darchlight Woods",
+},
+["369"] = {
+	Name="Honec Woods",
+},
+["370"] = {
+	Name="Honec Woods",
+},
+["371"] = {
+	Name="Azure Shore",
+},
+["372"] = {
+	Name="Badlands",
+},
+["373"] = {
+	Name="Zorrialyn Desert",
+},
+["374"] = {
+	Name="Hiyoshi Pass",
+},
+["375"] = {
+	Name="Hiyoshi City",
+},
+["376"] = {
+	Name="Route 7",
+},
+["377"] = {
+	Name="Judicial District",
+},
+["378"] = {
+	Name="Police Department",
+},
+["379"] = {
+	Name="REMOVED",
+},
+["380"] = {
+	Name="REMOVED",
+},
+["381"] = {
+	Name="Field of Pillars",
+},
+["382"] = {
+	Name="Route 7",
+},
+["383"] = {
+	Name="Gate Plaza",
+},
+["384"] = {
+	Name="Bladestar HQ",
+},
+["385"] = {
+	Name="MOVIE WORLD",
+},
+["386"] = {
+	Name="Bladestar Base",
+},
+["387"] = {
+	Name="The Underground",
+},
+["388"] = {
+	Name="The Underground",
+},
+["389"] = {
+	Name="The Final Trial",
+},
+["390"] = {
+	Name="Chrysalis Courtyard",
+},
+["391"] = {
+	Name="Chrysalis Courtyard",
+},
+["392"] = {
+	Name="Chrysalis Manor",
+},
+["393"] = {
+	Name="Tower of Theolia",
+},
+["394"] = {
+	Name="Atebit Kingdom",
+},
+["395"] = {
+	Name="3rd Layer",
+},
+["396"] = {
+	Name="Den of Verity",
+},
+["397"] = {
+	Name="The Three Trials",
+},
+["398"] = {
+	Name="Tower Cellar",
+},
+["399"] = {
+	Name=" Plane of Dissonance",
+},
+["400"] = {
+	Name="Goldenleaf Theatre",
+},
+["401"] = {
+	Name="Backstage Theatre",
+},
+["402"] = {
+	Name=" Kecleon Bazaar",
+},
+["403"] = {
+	Name="Forsaken Laboratory",
+},
+["404"] = {
+	Name="REMOVED",
+},
+["405"] = {
+	Name="REMOVED",
+},
+["406"] = {
+	Name="Temple Outskirts",
+},
+["407"] = {
+	Name="Rejuvenation Co.",
+},
+["408"] = {
+	Name="Darchlight Manor",
+},
+["409"] = {
+	Name="Darchlight Village",
+},
+["410"] = {
+	Name="Kakori Depths",
+},
+["411"] = {
+	Name="Help Plaza",
+},
+["412"] = {
+	Name="Botanical Garden",
+},
+["413"] = {
+	Name="Chamber of Awakening",
+},
+["414"] = {
+	Name="Club S.T.F.U.",
+},
+["415"] = {
+	Name="WG Sewage Managemnt",
+},
+["416"] = {
+	Name="REMOVED",
+},
+["417"] = {
+	Name="Club NightLight",
+},
+["418"] = {
+	Name="The Hidden Library",
+},
+["419"] = {
+	Name="Forlorned Cavern",
+},
+["420"] = {
+	Name="Axis High University",
+},
+["421"] = {
+	Name="Floria Island",
+},
+["422"] = {
+	Name="Castle Zygara",
+},
+["423"] = {
+	Name="Sheridan Village",
+},
+["424"] = {
+	Name="Sheridan Arena",
+},
+["425"] = {
+	Name="Sheridan Village",
+},
+["426"] = {
+	Name="Sensei's Garden",
+},
+["427"] = {
+	Name="Cold Storage",
+},
+["428"] = {
+	Name="Somniam Storage",
+},
+["429"] = {
+	Name="Club NightLight",
+},
+["430"] = {
+	Name="Kakori Village FRZ",
+},
+["431"] = {
+	Name="Deeper Confines",
+},
+["432"] = {
+	Name="River's End",
+},
+["433"] = {
+	Name="River's End",
+},
+["434"] = {
+	Name="Mr. Luck's Tent",
+},
+["435"] = {
+	Name="Blacksteeple Castle",
+},
+["436"] = {
+	Name="Blacksteeple Quarry",
+},
+["437"] = {
+	Name="Blacksteeple Garden",
+},
+["438"] = {
+	Name="Blacksteeple Castle",
+},
+["439"] = {
+	Name="Mt. Ruin",
+},
+["440"] = {
+	Name="Blacksteeple Castle",
+},
+["441"] = {
+	Name="League Administration",
+},
+["442"] = {
+	Name="Zeight",
+},
+["443"] = {
+	Name="Blacksteeple Castle",
+},
+["444"] = {
+	Name="MOVIE WORLD",
+},
+["445"] = {
+	Name="Central Building - 36th Floor-",
+},
+["446"] = {
+	Name="Bladestar Labs",
+},
+["447"] = {
+	Name="Bladestar Labs",
+},
+["448"] = {
+	Name="Bladestar Base",
+},
+["449"] = {
+	Name="Hidden Colosseum",
+},
+["450"] = {
+	Name="Distant Time",
+},
+["451"] = {
+	Name="MOVIE WORLD",
+},
+["452"] = {
+	Name="S.S. Paradise",
+},
+["453"] = {
+	Name="S.S. Paradise",
+},
+["454"] = {
+	Name="MOVIE WORLD",
+},
+["455"] = {
+	Name="Hidden Colosseum",
+},
+["456"] = {
+	Name="S.S. Paradise",
+},
+["457"] = {
+	Name="Blacksteeple Port",
+},
+["458"] = {
+	Name="Pokemon Pinnacle",
+},
+["459"] = {
+	Name="Route 7",
+},
+["460"] = {
+	Name="Atebit Kingdom",
+},
+["461"] = {
+	Name="Blacksteeple Playroom",
+},
+["462"] = {
+	Name="MOVIE WORLD",
+},
+["463"] = {
+	Name="Helojak Factory (W)",
+},
+["464"] = {
+	Name="Aquamarine Depths",
+},
+["465"] = {
+	Name="Den of Acuity",
+},
+["466"] = {
+	Name="Bladestar Battalion",
+},
+["467"] = {
+	Name="Sacrificial Chamber",
+},
+["468"] = {
+	Name="Golden Arena",
+},
+["469"] = {
+	Name="Bladestar Battalion",
+},
+["470"] = {
+	Name="Evergreen Forest",
+},
+["471"] = {
+	Name="Spring of Preservation",
+},
+["472"] = {
+	Name="Nana's House",
+},
+["473"] = {
+	Name="Route 11",
+},
+["474"] = {
+	Name="Route Z",
+},
+["475"] = {
+	Name="Rift Isolated Dream",
+},
+["476"] = {
+	Name="Sashila Residence",
+},
+["477"] = {
+	Name="Sewers",
+},
+["478"] = {
+	Name="Game Show",
+},
+["479"] = {
+	Name="Seabound Cave",
+},
+["480"] = {
+	Name="Seabound Cave",
+},
+["481"] = {
+	Name="Evergreen Cave [South]",
+},
+["482"] = {
+	Name="Evergreen Cave [South]",
+},
+["483"] = {
+	Name="Evergreen Cave [South]",
+},
+["484"] = {
+	Name="East Gearen Gym",
+},
+["485"] = {
+	Name="Evergreen Cave [North]",
+},
+["486"] = {
+	Name="Evergreen Cave [North]",
+},
+["487"] = {
+	Name="Den of Acuity",
+},
+["488"] = {
+	Name="Amethyst Grotto",
+},
+["489"] = {
+	Name="Wispy Ruins",
+},
+["490"] = {
+	Name="Evergreen Cave [North]",
+},
+["491"] = {
+	Name="Evergreen Cave [North]",
+},
+["492"] = {
+	Name="REMOVED",
+},
+["493"] = {
+	Name="REMOVED",
+},
+["494"] = {
+	Name="Darchlight Caves",
+},
+["495"] = {
+	Name="Decompression Lab",
+},
+["496"] = {
+	Name="REMOVED",
+},
+["497"] = {
+	Name="REMOVED",
+},
+["498"] = {
+	Name="Darchlight Caves",
+},
+["499"] = {
+	Name="Darchlight Caves",
+},
+["500"] = {
+	Name="removed",
+},
+["501"] = {
+	Name="REMOVED",
+},
+["502"] = {
+	Name="Removed",
+},
+["503"] = {
+	Name="REMOVED",
+},
+["504"] = {
+	Name="REMOVED",
+},
+["505"] = {
+	Name="Decompression Lab",
+},
+["506"] = {
+	Name="REMOVED",
+},
+["507"] = {
+	Name="Wispy Treasury",
+},
+["508"] = {
+	Name="Wispy Chasm",
+},
+["509"] = {
+	Name="East Gearen City",
+},
+["510"] = {
+	Name="Zorrialyn Desert",
+},
+["511"] = {
+	Name="Sand Stream Cave",
+},
+["512"] = {
+	Name="Sand Stream Cave",
+},
+["513"] = {
+	Name="Sand Stream Cave",
+},
+["514"] = {
+	Name="Sand Stream Depths",
+},
+["515"] = {
+	Name="Zorrialyn Coast",
+},
+["516"] = {
+	Name="Sashila Village",
+},
+["517"] = {
+	Name="Sashila Village",
+},
+["518"] = {
+	Name="Alamissa Urben",
+},
+["519"] = {
+	Name="Voidal Chasm",
+},
+["520"] = {
+	Name="Voidal Chasm",
+},
+["521"] = {
+	Name="SyxtenBit Cave",
+},
+["522"] = {
+	Name="REMOVED",
+},
+["523"] = {
+	Name="Fort Rystrine",
+},
+["524"] = {
+	Name="Fort Rystrine",
+},
+["525"] = {
+	Name="Dread Dream??",
+},
+["526"] = {
+	Name="Alamissa Urben",
+},
+["527"] = {
+	Name="Alamissa Urben",
+},
+["528"] = {
+	Name="REMOVED",
+},
+["529"] = {
+	Name="Hospital of Ruin",
+},
+["530"] = {
+	Name="Crescent's Domain",
+},
+["531"] = {
+	Name="Alamissa Gallery",
+},
+["532"] = {
+	Name="REMOVED",
+},
+["533"] = {
+	Name="Zorrialyn Labyrinth",
+},
+["534"] = {
+	Name="Zone Zero Outskirts",
+},
+["535"] = {
+	Name="Zorrialyn Labyrinth",
+},
+["536"] = {
+	Name="Zorrialyn Labyrinth",
+},
+["537"] = {
+	Name="Zorrialyn Labyrinth",
+},
+["538"] = {
+	Name="Ancient Story",
+},
+["539"] = {
+	Name="Zorrialyn Crypt",
+},
+["540"] = {
+	Name="Isle of Angels",
+},
+["541"] = {
+	Name="Zorrialyn Labyrinth",
+},
+["542"] = {
+	Name="Zorrialyn Labyrinth",
+},
+["543"] = {
+	Name="Great Terajuma Falls",
+},
+["544"] = {
+	Name="REMOVED",
+},
+["545"] = {
+	Name="Rejuvenation Co.",
+},
+["546"] = {
+	Name="Isle of Angels",
+},
+["547"] = {
+	Name="REMOVED",
+},
+["548"] = {
+	Name="Grand Dream Ball",
+},
+["549"] = {
+	Name="Physical Rehab Center",
+},
+["550"] = {
+	Name="Gregorian Lake",
+},
+["551"] = {
+	Name="Underground Sanctuary",
+},
+["552"] = {
+	Name="Underground Sanctuary",
+},
+["553"] = {
+	Name="Grand Dream Stadium",
+},
+["554"] = {
+	Name="Grand Dream Stadium",
+},
+["555"] = {
+	Name="Grand Dream Stadium",
+},
+["556"] = {
+	Name="G.C. Plaza",
+},
+["557"] = {
+	Name="Mysterious Manor",
+},
+["558"] = {
+	Name="The Archive",
+},
+["559"] = {
+	Name="Garufan Chamber",
+},
+["560"] = {
+	Name="Strange House",
+},
+["561"] = {
+	Name="REMOVED",
+},
+["562"] = {
+	Name="REMOVED",
+},
+["563"] = {
+	Name="REMOVED",
+},
+["564"] = {
+	Name="REMOVED",
+},
+["565"] = {
+	Name="REMOVED",
+},
+["566"] = {
+	Name="REMOVED",
+},
+["567"] = {
+	Name="REMOVED",
+},
+["568"] = {
+	Name="The Lost Camp",
+},
+["569"] = {
+	Name="REMOVED",
+},
+["570"] = {
+	Name="Phasial Cave",
+},
+["571"] = {
+	Name="Gearen Park",
+},
+["572"] = {
+	Name="Den of Valor",
+},
+["573"] = {
+	Name="Zone Zero",
+},
+["574"] = {
+	Name="Zone Zero",
+},
+["575"] = {
+	Name="Abandoned Apartment",
+},
+["576"] = {
+	Name="Zone Zero",
+},
+["577"] = {
+	Name="Underground Sanctuary",
+},
+["578"] = {
+	Name="Zone Zero",
+},
+["579"] = {
+	Name="Reldin Island",
+},
+["580"] = {
+	Name="Pyramid Grounds",
+},
+["581"] = {
+	Name="Eclysia Pyramid",
+},
+["582"] = {
+	Name="Ignis Ironworks",
+},
+["583"] = {
+	Name="Spring of Rejuvenation",
+},
+["584"] = {
+	Name="Eclysia Pyramid",
+},
+["585"] = {
+	Name="Eclysia Pyramid",
+},
+["586"] = {
+	Name="Eclysia Skyview",
+},
+["587"] = {
+	Name="Wreckage Rig",
+},
+["588"] = {
+	Name="S.S. Oceana Wreckage",
+},
+["589"] = {
+	Name="Nastasia's Airship",
+},
+["590"] = {
+	Name="Sheridan Arena",
+},
+["591"] = {
+	Name="Apartment Depths",
+},
+["592"] = {
+	Name="Carotos Pinnacle",
+},
+["593"] = {
+	Name="Inner Workings",
+},
+["594"] = {
+	Name="Evergreen Trench",
+},
+["595"] = {
+	Name="Evergreen Trench",
+},
+["596"] = {
+	Name="Evergreen Trench",
+},
+["597"] = {
+	Name="Evergreen Trench",
+},
+["598"] = {
+	Name="Aquamarine Ruins",
+},
+["599"] = {
+	Name="Swamp Pit",
+},
+["600"] = {
+	Name="Kingdom of Goomidra",
+},
+["601"] = {
+	Name="Kingdom of Goomidra",
+},
+["602"] = {
+	Name="Castle of Goomidra",
+},
+["603"] = {
+	Name="Castle Zygara",
+},
+["604"] = {
+	Name="Spring Maintenance",
+},
+["605"] = {
+	Name="S.S. Oceana Wreckage",
+},
+["606"] = {
+	Name="Pyramid Grounds",
+},
+["607"] = {
+	Name="Club Madness",
+},
+["608"] = {
+	Name="Valor Cutscene",
+},
+["609"] = {
+	Name="???",
+},
+["610"] = {
+	Name="Rose Tower",
+},
+["611"] = {
+	Name="Crystal Queendom",
+},
+["612"] = {
+	Name="Club R.E.M.",
+},
+["613"] = {
+	Name="Terajuma",
+},
+["614"] = {
+	Name="Helojak Factory",
+},
+["615"] = {
+	Name="Wreckage Rig",
+},
+["616"] = {
+	Name="Celgearn Manufactory",
+},
+["617"] = {
+	Name="",
+},
+}
+
+return Database

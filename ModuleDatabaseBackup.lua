@@ -425,7 +425,7 @@ local BranchingForms = {
 	["KOFFING"] = {0,1},
 	["MIMEJR"] = {0,1},
 	["ROCKRUFF"] = {0,1,2},
-	["TOXEL"] = {0,3},
+	["TOXEL"] = {0,2},
 }
 
 function getPreEvolution(Pokemon, Formnumber)
@@ -497,7 +497,11 @@ function p.EvoData(Frame)
 			table.insert(wikitext, Types[Methodextra]["Name"])
 		--Falirion end
 		else
-			table.insert(wikitext, firstToUpper(Methodextra))
+			if Methodextra == "0" then
+				table.insert(wikitext, ". ")
+			else
+				table.insert(wikitext, firstToUpper(Methodextra) .. ". ")
+			end
 		end
 		table.insert(wikitext, ". ")
 	end
@@ -610,7 +614,7 @@ function p.EvoData(Frame)
 								table.insert(wikitext, Encounters["Wild"][tostring(FormEvolutions[c+2])]["Name"] .. ". ")
 							elseif Names[(FormEvolutions[c+2])] then
 								table.insert(wikitext, Names[(FormEvolutions[c+2])] .. ". ")
-							elseif Evolutions[a+1]=="Affection" then
+							elseif Evolutions[c+1]=="Affection" then
 								table.insert(wikitext, Types[(FormEvolutions[c+2])]["Name"] .. ". ")
 							else
 								if FormEvolutions[c+2] == "0" then
@@ -619,9 +623,9 @@ function p.EvoData(Frame)
 									table.insert(wikitext, firstToUpper(FormEvolutions[c+2]) .. ". ")
 								end
 							end
+							FormEvolutions[c] = nil
 							FormEvolutions[c+1] = nil
 							FormEvolutions[c+2] = nil
-							FormEvolutions[c+3] = nil
 						end
 					end
 					FormEvolutions = {}

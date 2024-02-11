@@ -44,6 +44,10 @@ Module:Database/Forms<br />
     - RejuvTutors.csv is needed because Module:Database/TMs only gives compatible moves for the base forms<br />
     - Converts to DatabaseForms.txt from monTextConverter-Forms.py
 
+---Other Files---
+trainertextConverter.py is a WIP on converting trainertxt to tables for easy copy paste into areas/pages. For this, I had trainerTypeCSV.py and monTextCSV.py to help with conversions between numbers and pokemon/trainer type. This is still a WIP.
+
+
 Feel free to reach out on Discord if you have questions. I'm not always available, but I'll usually check in on Discord at least two or three times a week
 
 ThumsRipa

@@ -1,0 +1,16 @@
+This document contains changes to formatting or errors in the montext.rb and the DatabaseSpecies file
+
+montext.rb Notes (As of Jun 10 2024)
+Galarian Darmanitan Standard/Zen Form Height incorrectly formatted (1.7 instead of 17)
+Aevian Magikarp's Moveset Formatting is different from the rest
+Galarian Slowpoke's Evolution Formatting is different from the rest
+
+
+DatabaseSpecies.txt Notes
+Manual Corrections to Locations:
+- Crabrawler -> Crabominable
+    "Valor Mountain (Icy), Seabound Cave, Evergreen Island, Evergreen Cave, Tower of Theolia"
+- Magnetic Evolutions (Nosepass -> Probopass, Magnteon -> Magnezone, Charjabug -> Vikavolt)
+    "Excavation Site (Terajuma), West Gearen Power Plant Generator Room"
+- Leafeon/Glaceon
+    "Tyluric Falls", "Evergreen Cave (North) Ice Rock Room"

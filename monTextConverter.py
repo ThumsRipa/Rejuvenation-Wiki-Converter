@@ -325,7 +325,11 @@ for line in allLines:
         abilitiesList = abilities.split(',')
         abilities = ''
         for i in range(len(abilitiesList)):
-            abilities += '"' + abilitiesList[i] + '",'
+            startLoc = abilitiesList[i].find('#')
+            if(startLoc != -1):
+                break
+            else:
+                abilities += '"' + abilitiesList[i] + '",'
         abilities = abilities[:-1]
         continue
     if(line.find('BaseStats') != -1):
@@ -369,10 +373,11 @@ for line in allLines:
         startLoc = line.find('[')
         endLoc = line.find(']')
         eggGroupsText = line[startLoc+1:endLoc]
+        eggGroupsText = eggGroupsText.replace(" ", '')
         eggGroupsText = eggGroupsText.replace(":", '')
         commaLoc = eggGroupsText.find(',')
         if(commaLoc != -1 and len(eggGroupsText) > 0):
-            eggGroupsText =  '"' + eggGroupsText[0:commaLoc] + '", "' + eggGroupsText[commaLoc+2:] + '"'
+            eggGroupsText =  '"' + eggGroupsText[0:commaLoc] + '", "' + eggGroupsText[commaLoc+1:] + '"'
         else:
             eggGroupsText = '"' + eggGroupsText + '"'
         continue

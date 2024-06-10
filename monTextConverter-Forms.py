@@ -388,7 +388,7 @@ moveExceptionMoves = [['ATTRACT', 'CAPTIVATE', 'CONFIDE', 'DOUBLETEAM', 'ENDURE'
 
 universalMovesTMs = ['Attract', 'Confide', 'DoubleTeam', 'Facade', 'Frustration', 'HiddenPower', 'Protect', 'Rest', 'Return', 'Round', 'SecretPower', 'SleepTalk', 'Substitute', 'Swagger', 'Toxic']
 
-universalMovesTutor = ['Bide', 'Captivate', 'Endure', 'NaturalGift', 'Snore', ]
+universalMovesTutor = ['Bide', 'Captivate', 'Endure', 'NaturalGift', 'Snore']
 
 def getTMsTutors(name, compMoveList):
     tutors = '\t\t["Tutor"]={'

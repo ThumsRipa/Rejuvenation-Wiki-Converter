@@ -1,0 +1,70 @@
+#Copies from SystemConstants.rb
+
+#Evos first
+Crabominable = "Valor Mountain (Ice), Seabound Cave Evergreen Cave, Evergreen Forest, Tower of Theolia"
+
+Magnetic = "Generator Room, Excavation Site" #Nosepass, Magnezone, Chargabug
+
+#Alolan/Galarian evos
+Marowak = "Route 3, Wispy Path, Wispy Tower, Goldenwood Forest, Silent Grove, Blacksteeple Castle, Darchlight Village, Darchlight Woods, Darchlight Manor"
+Weezing = "West Gearen City, West Gearen Sewers"
+Exeggutor = "Terajuma Island"
+Raichu = []
+EastShellos = "Route 6, Helojak Island"
+Deerling = []
+
+#Alolan
+Rattata = [55,58,59,91,144,194,209,218,24,82,390,391] #and aMeowth!
+Sandshrew = [146,150,165,171,174,178,181,269,479,480,481,482,483,485,486,490,491]
+Vulpix = []
+Diglett = [97,116,403,404]  
+Geodude = [269,289,419,489,569] 
+Grimer = [64,66,138]
+Cubone = []
+# Galarian
+MrMime = [75,146,150,165,171,174,178,181,269,470,471,479,480,481,482,483,485,486,490,491]
+Darumaka = []
+Meowth = [97,238] #gmeowth
+Ponyta = [357,358,359,360,368]
+Slowpoke = [474]
+PonyShowMaps = []
+Farfetchd = [201]
+Zigzagoon = [12,95]
+YamaskEvo = [11,12,489,508]
+YamaskSpawn = [12,489,508]
+Stunfisk = [201]
+Corsola = [584]
+# Hisui
+Growlithe = [140,523]
+Voltorb = [179,181]
+Typhlosion = []
+Qwilfish = [300]
+Sneasel = [521]
+Samurott = []
+Lilligant = [7,15,30,127,131,202,206,254,273,285,315,419,423,424,425,426,]
+Basculin = [395]
+Zorua = [107,470]
+Braviary = [75,146,150,165,171,174,178,181,269,470,471,479,480,481,482,483,485,486,490,491]
+Sliggoo = [600,601,602]
+Avalugg = [295]
+Decidueye = []
+# Aevian
+Paras = [64]
+Magikarp = [221]
+Misdreavus = [201,371]
+Shroomish = [357,358,359,360,361,368]
+Feebas = [474]
+Snorunt = [221,295]
+Munna = [57,145] # Mellow mellow Munna!
+Sigilyph = [458]
+Litwick = [111]
+Budew = [373,478,510,515,523,525]
+Bronzor = [137,227,357,358,359,360,363,368,494,498,499]
+AevShellos = [300,329,540]
+Toxtricity = []
+Jangmoo = []
+Wimpod = [523]
+Larvesta = []
+Sewaddle = [254]
+Mareep = []
+Lapras = [109]

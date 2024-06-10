@@ -503,7 +503,6 @@ function p.EvoData(Frame)
 				table.insert(wikitext, firstToUpper(Methodextra) .. ". ")
 			end
 		end
-		table.insert(wikitext, ". ")
 	end
 	
 	local Evolutions = {}
@@ -587,9 +586,12 @@ function p.EvoData(Frame)
 					elseif Method=="Affection" then
 						table.insert(wikitext, Types[Methodextra]["Name"])
 					else
-						table.insert(wikitext, firstToUpper(Methodextra))
+						if Methodextra == "0" then
+							table.insert(wikitext, ". ")
+						else
+							table.insert(wikitext, firstToUpper(Methodextra) .. ". ")
+						end
 					end
-					table.insert(wikitext, ". ")
 				end
 				--Falirion end
 				if Forms[Pokemon][a].Evolutions then

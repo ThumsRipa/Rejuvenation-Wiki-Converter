@@ -11888,9 +11888,9 @@ MOVEHASH = {
 	:kingrock => true,
 	:gravityblocked => true,
 	:desc => "The user attacks by kicking up into the air and slamming its heel down upon the target. This may also confuse the target. If it misses, the user takes damage instead."
-  },
+},
 
-  :COMEUPPANCE => {
+:COMEUPPANCE => {
 	:ID => 902,
 	:name => "Comeuppance",
 	:function => 0x073,

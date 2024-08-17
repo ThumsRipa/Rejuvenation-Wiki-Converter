@@ -46,6 +46,9 @@ for i, j in eventFile.iterrows():
             formsEventText += tempText + '",\n'
             continue
         curFormName = j['Pokemon']
+        curPokName = curFormName[0:(curFormName.find('(')-1)].upper()
+        curPokName = curPokName.replace(" ", "")
+        curPokName = curPokName.replace("-", "")
         timeText = ''
         if(j['Time'] == 'Any' or j['Time'] == 'N/A'):
             timeText = ''

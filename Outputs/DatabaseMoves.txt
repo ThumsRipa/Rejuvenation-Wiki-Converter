@@ -10031,7 +10031,7 @@ local Moves = {
 	Description="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.",
 	DataFlags={"Snachable","NoMirror"},
 },
-["COMEUPPANCE"]={
+["AXEKICK"]={
 	MoveName="Axe Kick",
 	Effect="506",
 	Type="FIGHTING",
@@ -10042,6 +10042,10 @@ local Moves = {
 	Chance="30",
 	Target="SingleNonUser",
 	Description="The user attacks by kicking up into the air and slamming its heel down upon the target. This may also confuse the target. If it misses, the user takes damage instead.",
+	DataFlags={"Contact","GraviyBlocked"},
+	MoveFlags={"Kingrock"},
+},
+["COMEUPPANCE"]={
 	MoveName="Comeuppance",
 	Effect="073",
 	Type="DARK",
@@ -10051,8 +10055,6 @@ local Moves = {
 	PP="10",
 	Target="NoTarget",
 	Description="The user retaliates with much greater force against the opponent that last inflicted damage on it.",
-	DataFlags={"Contact","GraviyBlocked"},
-	MoveFlags={"Kingrock"},
 },
 ["AQUACUTTER"]={
 	MoveName="Aqua Cutter",

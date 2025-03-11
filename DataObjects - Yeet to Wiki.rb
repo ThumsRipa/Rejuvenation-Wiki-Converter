@@ -1,5 +1,5 @@
 def namesDump
-  # Load the ability data file
+  #load data files
   abil_file = "Scripts/#{GAMEFOLDER}/abiltext.rb"
   item_file = "Scripts/#{GAMEFOLDER}/itemtext.rb"
   species_file = "Scripts/#{GAMEFOLDER}/montext.rb"

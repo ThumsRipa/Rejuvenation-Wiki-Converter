@@ -1,5 +1,5 @@
 def namesDump
-  #load data files
+  # Load the ability data file
   abil_file = "Scripts/#{GAMEFOLDER}/abiltext.rb"
   item_file = "Scripts/#{GAMEFOLDER}/itemtext.rb"
   species_file = "Scripts/#{GAMEFOLDER}/montext.rb"
@@ -44,12 +44,12 @@ def namesDump
   exporttext += "}"
 
   # Write to new file
-  File.open("Scripts/#{GAMEFOLDER}/exportedNames.rb", "w") do |f|
+  File.open("Scripts/#{GAMEFOLDER}/exportedNames.txt", "w") do |f|
     f.write(exporttext)
   end
 end
 
-def moveEffectsListDump #to check for move flags
+def moveEffectsListDump #to check for new flags
   move_file = "Scripts/#{GAMEFOLDER}/movetext.rb"
 
   require_relative move_file.gsub('.rb', '')
@@ -140,7 +140,7 @@ def movesDump
   exporttext += "}"
 
   # Write to new file
-  File.open("Scripts/#{GAMEFOLDER}/exportedMoves.rb", "w") do |f|
+  File.open("Scripts/#{GAMEFOLDER}/exportedMoves.txt", "w") do |f|
     f.write(exporttext)
   end
 end

@@ -49,7 +49,7 @@ def namesDump
   end
 end
 
-def moveEffectsListDump
+def moveEffectsListDump #to check for move flags
   move_file = "Scripts/#{GAMEFOLDER}/movetext.rb"
 
   require_relative move_file.gsub('.rb', '')
@@ -67,8 +67,6 @@ def moveEffectsListDump
     f.puts unique_subkeys.join("\n")
   end
 end
-
-
 
 def movesDump
   move_file = "Scripts/#{GAMEFOLDER}/movetext.rb"

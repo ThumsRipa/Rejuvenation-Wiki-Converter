@@ -320,3 +320,217 @@ def movesDump
     f.write(exporttext)
   end
 end
+
+def encDump
+  encFile = "Scripts/#{GAMEFOLDER}/enctext.rb"
+  require_relative encFile.gsub('.rb', '')
+
+  species_file = "Scripts/#{GAMEFOLDER}/montext.rb"
+  require_relative species_file.gsub('.rb', '')
+
+  encounterTypes = ["Land", "LandMorning", "LandDay", "LandNight", "Cave", "Water", "RockSmash", "OldRod", "GoodRod", "SuperRod", "Headbutt"]
+
+  wildEncounters = {}
+
+  ENCHASH.each do |map_id, encounters|
+    encounters.each do |enc_type, mons|
+      # Skip keys that are not valid encounter types
+      next unless encounterTypes.include?(enc_type.to_s)
+
+      mons.each do |mon_sym, entries|
+        mon_name = mon_sym.to_s.upcase  # Ensure full uppercase
+
+        entries.each do |rate, min_lvl, max_lvl|
+          # Initialize if needed
+          wildEncounters[mon_name] ||= []
+
+          method_str = enc_type.to_s
+
+          # Check for existing entry with same map and method
+          existing = wildEncounters[mon_name].find do |entry|
+            entry[0] == map_id && entry[1] == method_str
+          end
+
+          if existing
+            # Merge rates and adjust level range
+            existing[2] += rate
+            existing[3] = [existing[3], min_lvl].min
+            existing[4] = [existing[4], max_lvl].max
+          else
+            # Add new entry
+            wildEncounters[mon_name] << [map_id, method_str, rate, min_lvl, max_lvl]
+          end
+        end
+      end
+    end
+
+    puts "Processed map #{map_id}"
+  end
+
+  File.open("Scripts/#{GAMEFOLDER}/exportedEncounters.txt", "w") do |file|
+    file.puts "wildEncounters = {"
+
+    MONHASH.each_key do |mon_sym|
+      mon_name = mon_sym.to_s.upcase
+      next unless wildEncounters.key?(mon_name)
+
+      file.puts "  [\"#{mon_name}\"] = {"
+      wildEncounters[mon_name].each do |entry|
+        map_id, method, rate, min_lvl, max_lvl = entry
+        map_id_str = "%03d" % map_id
+        file.puts "    {\"#{map_id_str}\", \"#{method}\", #{rate}, #{min_lvl}, #{max_lvl}},"
+      end
+      file.puts "  },"
+    end
+
+    file.puts "}"
+  end
+
+end
+
+def mapsDump
+  map_names = {}
+  last_comment = nil
+
+  # Read the file line by line
+  File.foreach("Scripts/#{GAMEFOLDER}/mapNames.txt") do |line|
+    line = line.strip
+
+    # Match a comment like: #Route 11 or # Amethyst Cave
+    if line.match(/^#\s*(.+)/)
+      last_comment = $1.strip  # Remove "#" and trim the rest
+    end
+
+    # Match a map ID line like: 3 => {
+    if line.match(/^(\d+)\s*=>\s*\{/)
+      map_id = $1.to_i
+      map_id_str = "%03d" % map_id  # Format as "003"
+
+      if last_comment
+        map_names[map_id_str] = last_comment
+        last_comment = nil
+      end
+    end
+  end
+
+  # Export to Lua in Scripts/#{GAMEFOLDER}/
+  File.open("Scripts/#{GAMEFOLDER}/exportedMaps.txt", "w") do |file|
+    file.puts "mapNames = {"
+    map_names.each do |map_id_str, name|
+      file.puts "  [\"#{map_id_str}\"] = {Name = \"#{name}\"},"
+    end
+    file.puts "}"
+  end
+
+end
+
+def encMapDump
+  #encounters
+  encFile = "Scripts/#{GAMEFOLDER}/enctext.rb"
+  require_relative encFile.gsub('.rb', '')
+
+  species_file = "Scripts/#{GAMEFOLDER}/montext.rb"
+  require_relative species_file.gsub('.rb', '')
+
+  encounterTypes = ["Land", "LandMorning", "LandDay", "LandNight", "Cave", "Water", "RockSmash", "OldRod", "GoodRod", "SuperRod", "Headbutt"]
+
+  wildEncounters = {}
+
+  ENCHASH.each do |map_id, encounters|
+    encounters.each do |enc_type, mons|
+      # Skip keys that are not valid encounter types
+      next unless encounterTypes.include?(enc_type.to_s)
+
+      mons.each do |mon_sym, entries|
+        mon_name = mon_sym.to_s.upcase  #Uppercase
+
+        entries.each do |rate, min_lvl, max_lvl|
+          wildEncounters[mon_name] ||= []
+
+          method_str = enc_type.to_s
+
+          existing = wildEncounters[mon_name].find do |entry|
+            entry[0] == map_id && entry[1] == method_str
+          end
+
+          if existing #Merge case
+            existing[2] += rate
+            existing[3] = [existing[3], min_lvl].min
+            existing[4] = [existing[4], max_lvl].max
+          else #new case
+            wildEncounters[mon_name] << [map_id, method_str, rate, min_lvl, max_lvl]
+          end
+        end
+      end
+    end
+
+    puts "Processed map #{map_id}"
+  end
+
+  puts "Encounters Done"
+
+  #maps
+  map_names = {}
+  last_comment = nil
+
+  # Read the file line by line
+  File.foreach("Scripts/#{GAMEFOLDER}/mapNames.txt") do |line|
+    line = line.strip
+
+    #Map Making
+    if line.match(/^#\s*(.+)/)
+      last_comment = $1.strip
+    end
+    if line.match(/^(\d+)\s*=>\s*\{/)
+      map_id = $1.to_i
+      map_id_str = "%03d" % map_id  #Map formatting
+
+      if last_comment
+        map_names[map_id_str] = last_comment
+        last_comment = nil
+      end
+    end
+  end
+
+  puts "Maps Done"
+
+  output_path = "Scripts/#{GAMEFOLDER}/exportedEncMaps.txt"
+
+  File.open(output_path, "w") do |file|
+    file.puts "local Database = {"
+
+    #Maps
+    file.puts "--------------Map Names"
+    map_names.each do |map_id_str, name|
+      file.puts "  [\"#{map_id_str}\"] = {Name = \"#{name}\"},"
+    end
+
+    #Encounters
+    file.puts "--------------Encounter Data (Wild)\n  [\"wild\"] = {"
+    MONHASH.each_key do |mon_sym|
+      mon_name = mon_sym.to_s.upcase
+      next unless wildEncounters.key?(mon_name)
+
+      file.puts "    [\"#{mon_name}\"] = {"
+      wildEncounters[mon_name].each do |entry|
+        map_id, method, rate, min_lvl, max_lvl = entry
+        map_id_str = "%03d" % map_id
+        file.puts "      {\"#{map_id_str}\", \"#{method}\", #{rate}, #{min_lvl}, #{max_lvl}},"
+      end
+      file.puts "    },"
+    end
+
+    file.puts "  },\n}"
+  end
+end
+
+#Event Mons - For Copy Paste to txt file
+=begin
+  ["events"] = {
+    ["BULBASAUR"] = {
+      {"474", "Land", 10, 60, 65},
+    },
+
+
+
+=end
